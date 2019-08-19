@@ -1,0 +1,885 @@
+08-16 21:46 Outer logger INFO     Compilation started
+08-16 21:46 Arguments parsing INFO     Program started
+08-16 21:46 Arguments parsing INFO     Arguments parsed
+08-16 21:46 Main function INFO     Main part started
+08-16 21:46 Main function DEBUG    {8: 1}
+08-16 21:46 Main function DEBUG    {}
+08-16 21:46 Main function DEBUG    items: [(1, 1), (103, 31), (117, 40)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {103: 31, 117: 40}
+08-16 21:46 Main function DEBUG    {117: 40}
+08-16 21:46 Main function DEBUG    items: [(8, 31), (84, 14), (118, 9)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 84: 14, 118: 9}
+08-16 21:46 Main function DEBUG    {117: 40, 84: 14}
+08-16 21:46 Main function DEBUG    items: [(11, 18), (146, 20), (3, 12), (103, 9)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 84: 14, 11: 18, 146: 20, 3: 12}
+08-16 21:46 Main function DEBUG    {117: 40, 84: 14, 11: 18, 146: 20}
+08-16 21:46 Main function DEBUG    items: [(118, 12)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 84: 14, 11: 18, 146: 20}
+08-16 21:46 Main function DEBUG    {117: 40, 11: 18, 146: 20}
+08-16 21:46 Main function DEBUG    items: [(103, 14), (169, 4)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 11: 18, 146: 20, 169: 4}
+08-16 21:46 Main function DEBUG    {117: 40, 11: 18, 146: 20}
+08-16 21:46 Main function DEBUG    items: [(100, 40), (84, 4), (81, 40), (10, 39)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 11: 18, 146: 20, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    {117: 40, 146: 20, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    items: [(118, 18), (141, 38)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 146: 20, 100: 40, 81: 40, 10: 39, 141: 38}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 141: 38}
+08-16 21:46 Main function DEBUG    items: [(55, 11), (118, 20)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 141: 38, 55: 11}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 141: 38}
+08-16 21:46 Main function DEBUG    items: [(146, 11)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 141: 38}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    items: [(130, 23), (11, 38)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 130: 23}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    items: [(119, 7), (141, 23)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 119: 7}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    items: [(130, 7), (64, 25)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 64: 25}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39}
+08-16 21:46 Main function DEBUG    items: [(119, 25), (191, 22), (111, 2)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 191: 22, 111: 2}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 191: 22}
+08-16 21:46 Main function DEBUG    items: [(68, 44), (64, 2)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 191: 22, 68: 44}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(155, 36), (107, 28), (64, 22), (59, 23)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 107: 28, 59: 23}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 107: 28}
+08-16 21:46 Main function DEBUG    items: [(191, 23), (91, 6), (102, 29)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 107: 28, 91: 6, 102: 29}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 107: 28, 102: 29}
+08-16 21:46 Main function DEBUG    items: [(59, 6)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 107: 28, 102: 29}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 102: 29}
+08-16 21:46 Main function DEBUG    items: [(191, 28)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 102: 29}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36}
+08-16 21:46 Main function DEBUG    items: [(59, 29), (199, 1)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36, 199: 1}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36}
+08-16 21:46 Main function DEBUG    items: [(102, 1)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 155: 36}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(191, 36), (151, 33)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44, 151: 33}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(155, 33)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 10: 39, 68: 44}
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(169, 39)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {117: 40, 100: 40, 81: 40, 68: 44}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(176, 24), (8, 40)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 176: 24}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44}
+08-16 21:46 Main function DEBUG    items: [(88, 9), (117, 24), (60, 2)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 88: 9, 60: 2}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 88: 9}
+08-16 21:46 Main function DEBUG    items: [(131, 9), (176, 2), (75, 12)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 88: 9, 131: 9, 75: 12}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 88: 9, 75: 12}
+08-16 21:46 Main function DEBUG    items: [(126, 38), (86, 36), (60, 9)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 88: 9, 75: 12, 126: 38, 86: 36}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 75: 12, 126: 38, 86: 36}
+08-16 21:46 Main function DEBUG    items: [(52, 37), (176, 9)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 75: 12, 126: 38, 86: 36, 52: 37}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37}
+08-16 21:46 Main function DEBUG    items: [(60, 12), (101, 16)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37, 101: 16}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37}
+08-16 21:46 Main function DEBUG    items: [(75, 16), (194, 12)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37, 194: 12}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37}
+08-16 21:46 Main function DEBUG    items: [(101, 12)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 86: 36, 52: 37}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37}
+08-16 21:46 Main function DEBUG    items: [(131, 36), (127, 5)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 127: 5}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37}
+08-16 21:46 Main function DEBUG    items: [(86, 5), (149, 36), (133, 26), (144, 44)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 149: 36, 133: 26, 144: 44}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 149: 36, 144: 44}
+08-16 21:46 Main function DEBUG    items: [(123, 44), (134, 29), (127, 26)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 149: 36, 144: 44, 123: 44, 134: 29}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 149: 36, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(133, 29)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 149: 36, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(127, 36), (78, 36)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 78: 36}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(149, 36), (124, 33), (164, 37), (174, 4)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 124: 33, 164: 37, 174: 4}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 124: 33, 164: 37}
+08-16 21:46 Main function DEBUG    items: [(78, 4), (51, 34)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 124: 33, 164: 37, 51: 34}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 164: 37, 51: 34}
+08-16 21:46 Main function DEBUG    items: [(78, 33)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 164: 37, 51: 34}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 164: 37}
+08-16 21:46 Main function DEBUG    items: [(174, 34)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 164: 37}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(46, 39), (78, 37)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 52: 37, 144: 44, 123: 44, 46: 39}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 144: 44, 123: 44, 46: 39}
+08-16 21:46 Main function DEBUG    items: [(88, 37)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 126: 38, 144: 44, 123: 44, 46: 39}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39}
+08-16 21:46 Main function DEBUG    items: [(6, 22), (182, 40), (131, 38)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 6: 22, 182: 40}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40}
+08-16 21:46 Main function DEBUG    items: [(48, 36), (126, 22)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 48: 36}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40}
+08-16 21:46 Main function DEBUG    items: [(12, 31), (6, 36)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 12: 31}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40}
+08-16 21:46 Main function DEBUG    items: [(34, 8), (48, 31), (82, 39), (45, 8)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 34: 8, 82: 39, 45: 8}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 34: 8, 82: 39}
+08-16 21:46 Main function DEBUG    items: [(161, 10), (12, 8)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 34: 8, 82: 39, 161: 10}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 161: 10}
+08-16 21:46 Main function DEBUG    items: [(12, 8), (188, 38), (181, 34)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 161: 10, 188: 38, 181: 34}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 181: 34}
+08-16 21:46 Main function DEBUG    items: [(45, 10), (79, 4)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 181: 34, 79: 4}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 181: 34}
+08-16 21:46 Main function DEBUG    items: [(62, 39), (161, 4), (142, 42)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 181: 34, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    items: [(34, 34)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 188: 38, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    items: [(34, 38)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 82: 39, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    items: [(63, 9), (12, 39)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 62: 39, 142: 42, 63: 9}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    items: [(82, 9)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 62: 39, 142: 42}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42}
+08-16 21:46 Main function DEBUG    items: [(83, 37), (93, 14), (79, 39)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 93: 14}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37}
+08-16 21:46 Main function DEBUG    items: [(62, 14), (15, 6), (28, 12), (143, 3)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 15: 6, 28: 12, 143: 3}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 15: 6, 28: 12}
+08-16 21:46 Main function DEBUG    items: [(93, 3), (184, 22)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 15: 6, 28: 12, 184: 22}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 28: 12, 184: 22}
+08-16 21:46 Main function DEBUG    items: [(196, 27), (93, 6)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 28: 12, 184: 22, 196: 27}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 184: 22, 196: 27}
+08-16 21:46 Main function DEBUG    items: [(93, 12)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 184: 22, 196: 27}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27}
+08-16 21:46 Main function DEBUG    items: [(143, 22), (74, 15)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 74: 15}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27}
+08-16 21:46 Main function DEBUG    items: [(184, 15), (195, 6)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 195: 6}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27}
+08-16 21:46 Main function DEBUG    items: [(22, 19), (74, 6)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 22: 19}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27}
+08-16 21:46 Main function DEBUG    items: [(38, 18), (125, 42), (150, 33), (195, 19)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 38: 18, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    items: [(22, 18), (140, 26)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33, 140: 26}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    items: [(177, 23), (115, 15), (38, 26)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33, 177: 23, 115: 15}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33, 177: 23}
+08-16 21:46 Main function DEBUG    items: [(140, 15)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33, 177: 23}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    items: [(140, 23)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 196: 27, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    items: [(26, 17), (15, 27)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 150: 33, 26: 17}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 150: 33}
+08-16 21:46 Main function DEBUG    items: [(196, 17), (192, 43)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 150: 33, 192: 43}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(22, 33)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 83: 37, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(62, 37)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 46: 39, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(164, 39), (40, 17)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 40: 17}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(23, 1), (56, 18), (46, 17)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 23: 1, 56: 18}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 56: 18}
+08-16 21:46 Main function DEBUG    items: [(40, 1)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 56: 18}
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(40, 18)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {100: 40, 81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43}
+08-16 21:46 Main function DEBUG    items: [(186, 13), (169, 40), (104, 41), (128, 41), (147, 44)]
+08-16 21:46 Main function DEBUG    items len: 5
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 186: 13, 104: 41, 128: 41, 147: 44}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(100, 13), (162, 8)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 162: 8}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(185, 8), (186, 8)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 185: 8}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(19, 4), (162, 8)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 19: 4}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(200, 14), (185, 4), (92, 14), (159, 8)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 200: 14, 92: 14, 159: 8}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 200: 14, 92: 14}
+08-16 21:46 Main function DEBUG    items: [(19, 8)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 200: 14, 92: 14}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 200: 14}
+08-16 21:46 Main function DEBUG    items: [(19, 14), (37, 35), (9, 28)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 200: 14, 37: 35, 9: 28}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28}
+08-16 21:46 Main function DEBUG    items: [(4, 4), (19, 14)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 4: 4}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28}
+08-16 21:46 Main function DEBUG    items: [(200, 4), (158, 14), (167, 7)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 158: 14, 167: 7}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 158: 14}
+08-16 21:46 Main function DEBUG    items: [(160, 22), (4, 7)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 158: 14, 160: 22}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 160: 22}
+08-16 21:46 Main function DEBUG    items: [(153, 1), (4, 14)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 160: 22, 153: 1}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 160: 22}
+08-16 21:46 Main function DEBUG    items: [(158, 1)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 160: 22}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28}
+08-16 21:46 Main function DEBUG    items: [(167, 22), (179, 13), (21, 30)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 179: 13, 21: 30}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 21: 30}
+08-16 21:46 Main function DEBUG    items: [(160, 13), (13, 34), (87, 36)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 9: 28, 21: 30, 13: 34, 87: 36}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 21: 30, 13: 34, 87: 36}
+08-16 21:46 Main function DEBUG    items: [(92, 28), (148, 35)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 21: 30, 13: 34, 87: 36, 148: 35}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 13: 34, 87: 36, 148: 35}
+08-16 21:46 Main function DEBUG    items: [(160, 30), (135, 7)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 13: 34, 87: 36, 148: 35, 135: 7}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 13: 34, 87: 36, 148: 35}
+08-16 21:46 Main function DEBUG    items: [(69, 35), (21, 7), (136, 40)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 13: 34, 87: 36, 148: 35, 69: 35, 136: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 69: 35, 136: 40}
+08-16 21:46 Main function DEBUG    items: [(179, 34)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 69: 35, 136: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 136: 40}
+08-16 21:46 Main function DEBUG    items: [(114, 35), (135, 35)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 136: 40, 114: 35}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 136: 40}
+08-16 21:46 Main function DEBUG    items: [(69, 35)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 148: 35, 136: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40}
+08-16 21:46 Main function DEBUG    items: [(20, 10), (9, 35), (168, 34)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 20: 10, 168: 34}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34}
+08-16 21:46 Main function DEBUG    items: [(171, 26), (148, 10)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 171: 26}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34}
+08-16 21:46 Main function DEBUG    items: [(49, 29), (20, 26), (43, 20), (98, 6)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 49: 29, 43: 20, 98: 6}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 49: 29, 43: 20}
+08-16 21:46 Main function DEBUG    items: [(171, 6)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 49: 29, 43: 20}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 49: 29}
+08-16 21:46 Main function DEBUG    items: [(171, 20), (39, 41)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 49: 29, 39: 41}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 39: 41}
+08-16 21:46 Main function DEBUG    items: [(66, 40), (171, 29)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 168: 34, 39: 41, 66: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40}
+08-16 21:46 Main function DEBUG    items: [(148, 34), (129, 28), (32, 9)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 129: 28, 32: 9}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 129: 28}
+08-16 21:46 Main function DEBUG    items: [(193, 21), (168, 9), (65, 43)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 129: 28, 193: 21, 65: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 129: 28, 65: 43}
+08-16 21:46 Main function DEBUG    items: [(32, 21)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 129: 28, 65: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 65: 43}
+08-16 21:46 Main function DEBUG    items: [(168, 28)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 37: 35, 87: 36, 136: 40, 39: 41, 66: 40, 65: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 87: 36, 136: 40, 39: 41, 66: 40, 65: 43}
+08-16 21:46 Main function DEBUG    items: [(92, 35)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 87: 36, 136: 40, 39: 41, 66: 40, 65: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 136: 40, 39: 41, 66: 40, 65: 43}
+08-16 21:46 Main function DEBUG    items: [(42, 43), (179, 36)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 136: 40, 39: 41, 66: 40, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 136: 40, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(49, 40)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 136: 40, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(54, 4), (135, 40), (106, 37)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 54: 4, 106: 37}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37}
+08-16 21:46 Main function DEBUG    items: [(170, 10), (136, 4)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37, 170: 10}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37}
+08-16 21:46 Main function DEBUG    items: [(89, 29), (54, 10)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37, 89: 29}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37}
+08-16 21:46 Main function DEBUG    items: [(67, 40), (170, 29)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 106: 37, 67: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 67: 40}
+08-16 21:46 Main function DEBUG    items: [(136, 37)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 67: 40}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(89, 40)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 182: 40, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(178, 17), (126, 40)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 178: 17}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(182, 17), (166, 18), (90, 11)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 90: 11}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18}
+08-16 21:46 Main function DEBUG    items: [(178, 11), (175, 18)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 175: 18}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18}
+08-16 21:46 Main function DEBUG    items: [(189, 4), (156, 43), (58, 32), (90, 18)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 189: 4, 156: 43, 58: 32}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32}
+08-16 21:46 Main function DEBUG    items: [(175, 4), (70, 11)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 70: 11}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32}
+08-16 21:46 Main function DEBUG    items: [(180, 17), (50, 16), (189, 11)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 180: 17, 50: 16}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 180: 17}
+08-16 21:46 Main function DEBUG    items: [(70, 16)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 180: 17}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32}
+08-16 21:46 Main function DEBUG    items: [(121, 35), (70, 17), (198, 1)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 121: 35, 198: 1}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 121: 35}
+08-16 21:46 Main function DEBUG    items: [(180, 1)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 166: 18, 156: 43, 58: 32, 121: 35}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 58: 32, 121: 35}
+08-16 21:46 Main function DEBUG    items: [(178, 18)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 58: 32, 121: 35}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 121: 35}
+08-16 21:46 Main function DEBUG    items: [(175, 32)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 121: 35}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(41, 17), (180, 35)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 41: 17}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(121, 17), (31, 33)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 31: 33}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(109, 38), (41, 33)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 109: 38}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(31, 38), (47, 1)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 47: 1}
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(109, 1)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {81: 40, 68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(169, 40)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 128: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(100, 41), (110, 10)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 110: 10}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(128, 10)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 104: 41, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(108, 35), (100, 41)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 108: 35}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(104, 35), (80, 3)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 80: 3}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(2, 29), (53, 41), (108, 3)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 2: 29, 53: 41}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 53: 41}
+08-16 21:46 Main function DEBUG    items: [(80, 29)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 53: 41}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(57, 20), (80, 41)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43, 57: 20}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(53, 20)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 39: 41, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(43, 41)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 125: 42, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(22, 42)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 142: 42, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    items: [(79, 42)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 156: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(175, 43), (145, 30), (85, 17)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 145: 30, 85: 17}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 145: 30}
+08-16 21:46 Main function DEBUG    items: [(197, 5), (156, 17)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 145: 30, 197: 5}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 145: 30}
+08-16 21:46 Main function DEBUG    items: [(85, 5)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43, 145: 30}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(156, 30)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 65: 43, 42: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(190, 16), (32, 43)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43, 190: 16}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(77, 21), (65, 16)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43, 77: 21}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43}
+08-16 21:46 Main function DEBUG    items: [(190, 21)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 42: 43}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(87, 43), (25, 7)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44, 25: 7}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(42, 7)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 192: 43, 147: 44}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(26, 43), (94, 12)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44, 94: 12}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(18, 20), (192, 12)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44, 18: 20}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44}
+08-16 21:46 Main function DEBUG    items: [(94, 20)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 147: 44}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(120, 13), (100, 44)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 120: 13}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(132, 37), (147, 13), (5, 22), (72, 24)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 5: 22, 72: 24}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 72: 24}
+08-16 21:46 Main function DEBUG    items: [(120, 22)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 72: 24}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37}
+08-16 21:46 Main function DEBUG    items: [(35, 2), (120, 24)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 35: 2}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37}
+08-16 21:46 Main function DEBUG    items: [(27, 9), (72, 2)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 27: 9}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37}
+08-16 21:46 Main function DEBUG    items: [(97, 13), (35, 9)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37, 97: 13}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37}
+08-16 21:46 Main function DEBUG    items: [(27, 13)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 132: 37}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(120, 37), (16, 34)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 16: 34}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44}
+08-16 21:46 Main function DEBUG    items: [(44, 27), (33, 2), (132, 34)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 44: 27, 33: 2}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 44: 27}
+08-16 21:46 Main function DEBUG    items: [(183, 16), (7, 33), (24, 31), (16, 2)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 44: 27, 183: 16, 7: 33, 24: 31}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 44: 27, 7: 33, 24: 31}
+08-16 21:46 Main function DEBUG    items: [(33, 16)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 44: 27, 7: 33, 24: 31}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31}
+08-16 21:46 Main function DEBUG    items: [(16, 27), (14, 20)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 14: 20}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31}
+08-16 21:46 Main function DEBUG    items: [(122, 16), (44, 20), (71, 38)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 122: 16, 71: 38}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38}
+08-16 21:46 Main function DEBUG    items: [(96, 33), (14, 16), (73, 26), (61, 33)]
+08-16 21:46 Main function DEBUG    items len: 4
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 73: 26, 61: 33}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33}
+08-16 21:46 Main function DEBUG    items: [(187, 5), (173, 5), (122, 26)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 187: 5, 173: 5}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 187: 5}
+08-16 21:46 Main function DEBUG    items: [(73, 5), (36, 42), (152, 8)]
+08-16 21:46 Main function DEBUG    items len: 3
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 187: 5, 36: 42, 152: 8}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 152: 8}
+08-16 21:46 Main function DEBUG    items: [(139, 22), (73, 5)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 152: 8, 139: 22}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22}
+08-16 21:46 Main function DEBUG    items: [(113, 2), (173, 8)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22, 113: 2}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22}
+08-16 21:46 Main function DEBUG    items: [(152, 2), (163, 16)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22, 163: 16}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22}
+08-16 21:46 Main function DEBUG    items: [(113, 16)]
+08-16 21:46 Main function DEBUG    items len: 1
+08-16 21:46 Main function DEBUG    code 2
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42, 139: 22}
+08-16 21:46 Main function DEBUG    {68: 44, 144: 44, 123: 44, 7: 33, 24: 31, 71: 38, 96: 33, 61: 33, 36: 42}
+08-16 21:46 Main function DEBUG    items: [(68, 32), (187, 22)]
+08-16 21:46 Main function DEBUG    items len: 2
+08-16 21:46 Main function DEBUG    code 1
+08-16 21:46 Main function DEBUG    item: 68
+08-16 21:46 Main function DEBUG    item_dist 44
+08-16 21:46 Main function DEBUG    
+
+08-16 21:46 Main function DEBUG    
+
