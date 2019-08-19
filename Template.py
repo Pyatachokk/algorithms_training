@@ -6,7 +6,7 @@ import argparse
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
                     datefmt='%m-%d %H:%M',
-                    filename='Template.log',  # Основной файл, куда перенаправляются все логи, включая корневой
+                    filename='logs/Template.log',  # Основной файл, куда перенаправляются все логи, включая корневой
                     filemode='w')
 
 # Консольный логгер. В него попадают только логи уровня INFO и выше

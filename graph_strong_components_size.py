@@ -9,7 +9,7 @@ count = 0
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s %(name)-20s %(levelname)-8s %(message)s',
                     datefmt='%m-%d %H:%M',
-                    filename='SCC.log',
+                    filename='logs/SCC.log',
                     filemode='w')
 
 console = logging.StreamHandler()
