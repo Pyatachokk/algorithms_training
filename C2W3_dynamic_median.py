@@ -23,6 +23,7 @@ logging.getLogger('').addHandler(console)
 
 # Определяем дополнительные логгеры там, где необходимо
 logger_1 = logging.getLogger('Outer logger')
+logger_1.setLevel(logging.INFO)
 logger_1.info('Compilation started')
 
 
@@ -76,18 +77,24 @@ class Heap:
         if p_i == c_i:
             return
         while (not self.is_valid(p_i, c_i)):
+            logger_1.debug('mark')
             self.swap(p_i, c_i)
             c_i = p_i
             if c_i == 0:
                 break
             p_i = (c_i - 1) // 2
 
+        # l = 2 * p_i + 1
+        # r = 2 * p_i + 2
+        # if not self.is_valid(p_i, l) or not self.is_valid(p_i, r):
+        #     self.shift_down(p_i)
+
 
     def shift_down(self, p_i):
         c_i = self.get_swap_child_ind(p_i)
         if p_i == c_i:
             return
-        while c_i and self.is_valid(p_i, c_i):
+        while c_i and not self.is_valid(p_i, c_i):
             self.swap(p_i, c_i)
             p_i = c_i
             c_i = self.get_swap_child_ind(p_i)
@@ -127,7 +134,9 @@ class Heap:
         if self.heap:
             self.swap(0, len(self.heap)-1)
             root = self.heap.pop()
+            logger_1.debug('low heap: {}'.format(self.heap))
             self.shift_down(0)
+            logger_1.debug('low heap: {}'.format(self.heap))
             return root
 
     def get_root(self):
@@ -155,6 +164,7 @@ def main(infile, outfile):
     high_heap = Heap(order=False)
     median = 0
     sum = 0
+    iter = 0
     while True:
         if marker:
             new_int = text_file.readline()
@@ -174,29 +184,38 @@ def main(infile, outfile):
                     continue
 
         assert type(new_int) == int
+        logger_1.debug('new_int: {}'.format(new_int))
+        logger_1.debug('curretn_median: {}'.format(median))
 
         if len(high_heap.heap) == len(low_heap.heap):
             if new_int > median:
                 high_heap.insert(new_int)
                 high_min = high_heap.extract_root()
                 low_heap.insert(high_min)
-                sum += high_min
+                # sum += low_heap.get_root()
             else:
                 low_heap.insert(new_int)
-                sum += low_heap.get_root()
-            median = low_heap.get_root()
+                # sum += low_heap.get_root()
+            # median = low_heap.get_root()
         elif len(high_heap.heap) < len(low_heap.heap):
             if new_int > median:
                 high_heap.insert(new_int)
-                sum += low_heap.get_root()
+                # sum += low_heap.get_root()
             else:
                 high_heap.insert(low_heap.extract_root())
+                logger_1.debug('low heap: {}'.format(low_heap.heap))
                 low_heap.insert(new_int)
-                sum += low_heap.get_root()
-            median = low_heap.get_root()
+                logger_1.debug('low heap: {}'.format(low_heap.heap))
+                # sum += low_heap.get_root()
+        median = low_heap.get_root()
+        sum += median
+        iter += 1
+
         logger_1.debug('low heap: {}'.format(low_heap.heap))
         logger_1.debug('high_heap: {}'.format(high_heap.heap))
-    print(sum)
+        logger_1.debug('\n')
+    print(sum % 10000)
+    print(iter)
 
 
 
