@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="100e0ced-08c2-42e1-960c-7f17e40b1407" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dijkstra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Min_cut.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outer.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick_sort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCC.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph_strong_components_size.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_strong_components_size.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/small_graph.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2W3_dynamic_median.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dijkstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph_strong_components_size.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="748">
+              <caret line="46" column="28" selection-end-line="62" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/C2W3_dynamic_median.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2187">
+              <caret line="194" column="9" lean-forward="true" selection-start-line="194" selection-start-column="9" selection-end-line="194" selection-end-column="9" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -35,24 +40,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dijkstra.py">
+        <entry file="file://$PROJECT_DIR$/heapSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="1598">
+              <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graph_strong_components_size.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1565632273847" expanded="true" signature="3297:3431" ph="..." />
               </folding>
             </state>
           </provider>
@@ -99,16 +93,19 @@
         <option value="$PROJECT_DIR$/graph_strong_components_size.py" />
         <option value="$PROJECT_DIR$/Template.py" />
         <option value="$PROJECT_DIR$/Dijkstra.py" />
+        <option value="$PROJECT_DIR$/C2W3_dynamic_median.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -118,7 +115,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/graph_strong_components_size.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heapSort.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -271,7 +268,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24959871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -503,17 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/heapSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1565632273847" expanded="true" signature="3297:3431" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quicksort_comparisons_count_first_pivot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -541,30 +528,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph_strong_components_size.py">
+    <entry file="file://$PROJECT_DIR$/Dijkstra.py" />
+    <entry file="file://$PROJECT_DIR$/graph_strong_components_size.py" />
+    <entry file="file://$PROJECT_DIR$/Template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dijkstra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="748">
+          <caret line="46" column="28" selection-end-line="62" selection-end-column="19" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Template.py">
+    <entry file="file://$PROJECT_DIR$/heapSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="1598">
+          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1565632273847" expanded="true" signature="3297:3431" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C2W3_dynamic_median.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="194" column="9" lean-forward="true" selection-start-line="194" selection-start-column="9" selection-end-line="194" selection-end-column="9" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
