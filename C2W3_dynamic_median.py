@@ -60,6 +60,11 @@ class Heap:
     def __init__(self, order):
         self.heap = []
         self.order = order #True - maxheap, False - minheap
+    def __contains__(self, item):
+        if self.into[item] == 1:
+            return True
+        else:
+            return False
 
     def is_valid(self, parent, child):
         if parent < len(self.heap) and child < len(self.heap):

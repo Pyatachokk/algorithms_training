@@ -1,0 +1,1599 @@
+08-27 16:37 Outer logger INFO     Compilation started
+08-27 16:37 Arguments parsing INFO     Program started
+08-27 16:37 Arguments parsing INFO     Arguments parsed
+08-27 16:37 Main function INFO     Main part started
+08-27 16:37 Main function DEBUG    lines parsed
+08-27 16:37 Main function DEBUG    queue created
+08-27 16:37 Main function DEBUG    first node added to queue
+08-27 16:37 Main function DEBUG    queue: [1]
+08-27 16:37 Main function DEBUG    names: ['8']
+08-27 16:37 Main function DEBUG    dict: [('8', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    8, 1
+08-27 16:37 Main function DEBUG    queue: []
+08-27 16:37 Main function DEBUG    names: []
+08-27 16:37 Main function DEBUG    dict: []
+08-27 16:37 Main function DEBUG    queue: [31, 40]
+08-27 16:37 Main function DEBUG    names: ['103', '117']
+08-27 16:37 Main function DEBUG    dict: [('103', 0), ('117', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    103, 31
+08-27 16:37 Main function DEBUG    queue: [40]
+08-27 16:37 Main function DEBUG    names: ['117']
+08-27 16:37 Main function DEBUG    dict: [('117', 0)]
+08-27 16:37 Main function DEBUG    queue: [9, 40, 14]
+08-27 16:37 Main function DEBUG    names: ['118', '117', '84']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('84', 2), ('118', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    118, 9
+08-27 16:37 Main function DEBUG    queue: [14, 40]
+08-27 16:37 Main function DEBUG    names: ['84', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('84', 0)]
+08-27 16:37 Main function DEBUG    queue: [12, 14, 18, 40, 20]
+08-27 16:37 Main function DEBUG    names: ['3', '84', '11', '117', '146']
+08-27 16:37 Main function DEBUG    dict: [('117', 3), ('84', 1), ('11', 2), ('146', 4), ('3', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    3, 12
+08-27 16:37 Main function DEBUG    queue: [14, 20, 18, 40]
+08-27 16:37 Main function DEBUG    names: ['84', '146', '11', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 3), ('84', 0), ('11', 2), ('146', 1)]
+08-27 16:37 Main function DEBUG    queue: [14, 20, 18, 40]
+08-27 16:37 Main function DEBUG    names: ['84', '146', '11', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 3), ('84', 0), ('11', 2), ('146', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    84, 14
+08-27 16:37 Main function DEBUG    queue: [18, 20, 40]
+08-27 16:37 Main function DEBUG    names: ['11', '146', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 2), ('11', 0), ('146', 1)]
+08-27 16:37 Main function DEBUG    queue: [4, 18, 40, 20]
+08-27 16:37 Main function DEBUG    names: ['169', '11', '117', '146']
+08-27 16:37 Main function DEBUG    dict: [('117', 2), ('11', 1), ('146', 3), ('169', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    169, 4
+08-27 16:37 Main function DEBUG    queue: [18, 20, 40]
+08-27 16:37 Main function DEBUG    names: ['11', '146', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 2), ('11', 0), ('146', 1)]
+08-27 16:37 Main function DEBUG    queue: [18, 20, 39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['11', '146', '10', '100', '81', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 5), ('11', 0), ('146', 1), ('100', 3), ('81', 4), ('10', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    11, 18
+08-27 16:37 Main function DEBUG    queue: [20, 40, 39, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['146', '117', '10', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('146', 0), ('100', 3), ('81', 4), ('10', 2)]
+08-27 16:37 Main function DEBUG    queue: [20, 40, 38, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['146', '117', '141', '100', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('146', 0), ('100', 3), ('81', 4), ('10', 5), ('141', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    146, 20
+08-27 16:37 Main function DEBUG    queue: [38, 40, 39, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['141', '117', '10', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 4), ('10', 2), ('141', 0)]
+08-27 16:37 Main function DEBUG    queue: [11, 40, 38, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['55', '117', '141', '100', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 4), ('10', 5), ('141', 2), ('55', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    55, 11
+08-27 16:37 Main function DEBUG    queue: [38, 40, 39, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['141', '117', '10', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 4), ('10', 2), ('141', 0)]
+08-27 16:37 Main function DEBUG    queue: [38, 40, 39, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['141', '117', '10', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 4), ('10', 2), ('141', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    141, 38
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '117', '81', '100']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 2), ('10', 0)]
+08-27 16:37 Main function DEBUG    queue: [23, 39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['130', '10', '81', '100', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 2), ('10', 1), ('130', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    130, 23
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '117', '81', '100']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 2), ('10', 0)]
+08-27 16:37 Main function DEBUG    queue: [7, 39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['119', '10', '81', '100', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 2), ('10', 1), ('119', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    119, 7
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '117', '81', '100']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 2), ('10', 0)]
+08-27 16:37 Main function DEBUG    queue: [25, 39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['64', '10', '81', '100', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 2), ('10', 1), ('64', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    64, 25
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '117', '81', '100']
+08-27 16:37 Main function DEBUG    dict: [('117', 1), ('100', 3), ('81', 2), ('10', 0)]
+08-27 16:37 Main function DEBUG    queue: [2, 39, 22, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['111', '10', '191', '100', '117', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 5), ('10', 1), ('191', 2), ('111', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    111, 2
+08-27 16:37 Main function DEBUG    queue: [22, 39, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['191', '10', '81', '100', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 2), ('10', 1), ('191', 0)]
+08-27 16:37 Main function DEBUG    queue: [22, 39, 40, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['191', '10', '81', '100', '117', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 2), ('10', 1), ('191', 0), ('68', 5)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    191, 22
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '100', '81', '68', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 2), ('10', 0), ('68', 3)]
+08-27 16:37 Main function DEBUG    queue: [23, 28, 36, 40, 40, 40, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['59', '107', '155', '100', '117', '81', '10', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 5), ('10', 6), ('68', 7), ('155', 2), ('107', 1), ('59', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    59, 23
+08-27 16:37 Main function DEBUG    queue: [28, 40, 36, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['107', '100', '155', '68', '117', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 6), ('68', 3), ('155', 2), ('107', 0)]
+08-27 16:37 Main function DEBUG    queue: [6, 28, 36, 29, 40, 40, 39, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['91', '107', '155', '102', '117', '81', '10', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 8), ('81', 5), ('10', 6), ('68', 7), ('155', 2), ('107', 1), ('91', 0), ('102', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    91, 6
+08-27 16:37 Main function DEBUG    queue: [28, 29, 36, 40, 40, 40, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['107', '102', '155', '100', '117', '81', '10', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 5), ('10', 6), ('68', 7), ('155', 2), ('107', 0), ('102', 1)]
+08-27 16:37 Main function DEBUG    queue: [28, 29, 36, 40, 40, 40, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['107', '102', '155', '100', '117', '81', '10', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 3), ('81', 5), ('10', 6), ('68', 7), ('155', 2), ('107', 0), ('102', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    107, 28
+08-27 16:37 Main function DEBUG    queue: [29, 40, 36, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['102', '100', '155', '68', '117', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 6), ('68', 3), ('155', 2), ('102', 0)]
+08-27 16:37 Main function DEBUG    queue: [29, 40, 36, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['102', '100', '155', '68', '117', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 6), ('68', 3), ('155', 2), ('102', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    102, 29
+08-27 16:37 Main function DEBUG    queue: [36, 40, 39, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['155', '100', '10', '68', '117', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 2), ('68', 3), ('155', 0)]
+08-27 16:37 Main function DEBUG    queue: [1, 40, 36, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['199', '100', '155', '68', '117', '81', '10']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 6), ('68', 3), ('155', 2), ('199', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    199, 1
+08-27 16:37 Main function DEBUG    queue: [36, 40, 39, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['155', '100', '10', '68', '117', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 2), ('68', 3), ('155', 0)]
+08-27 16:37 Main function DEBUG    queue: [36, 40, 39, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['155', '100', '10', '68', '117', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 2), ('68', 3), ('155', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    155, 36
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '100', '81', '68', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 2), ('10', 0), ('68', 3)]
+08-27 16:37 Main function DEBUG    queue: [33, 40, 39, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['151', '100', '10', '68', '117', '81']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 5), ('10', 2), ('68', 3), ('151', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    151, 33
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '100', '81', '68', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 2), ('10', 0), ('68', 3)]
+08-27 16:37 Main function DEBUG    queue: [39, 40, 40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['10', '100', '81', '68', '117']
+08-27 16:37 Main function DEBUG    dict: [('117', 4), ('100', 1), ('81', 2), ('10', 0), ('68', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    10, 39
+08-27 16:37 Main function DEBUG    queue: [40, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['117', '100', '81', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 0), ('100', 1), ('81', 2), ('68', 3)]
+08-27 16:37 Main function DEBUG    queue: [40, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['117', '100', '81', '68']
+08-27 16:37 Main function DEBUG    dict: [('117', 0), ('100', 1), ('81', 2), ('68', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    117, 40
+08-27 16:37 Main function DEBUG    queue: [40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['100', '68', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 0), ('81', 2), ('68', 1)]
+08-27 16:37 Main function DEBUG    queue: [24, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['176', '100', '81', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 2), ('68', 3), ('176', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    176, 24
+08-27 16:37 Main function DEBUG    queue: [40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['100', '68', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 0), ('81', 2), ('68', 1)]
+08-27 16:37 Main function DEBUG    queue: [2, 9, 40, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['60', '88', '81', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 2), ('68', 3), ('88', 1), ('60', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    60, 2
+08-27 16:37 Main function DEBUG    queue: [9, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['88', '100', '81', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 2), ('68', 3), ('88', 0)]
+08-27 16:37 Main function DEBUG    queue: [9, 9, 12, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['88', '131', '75', '68', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 5), ('68', 3), ('88', 0), ('131', 1), ('75', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    88, 9
+08-27 16:37 Main function DEBUG    queue: [9, 40, 12, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['131', '81', '75', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('131', 0), ('75', 2)]
+08-27 16:37 Main function DEBUG    queue: [9, 40, 12, 44, 40, 37]
+08-27 16:37 Main function DEBUG    names: ['131', '81', '75', '68', '100', '52']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('131', 0), ('75', 2), ('52', 5)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    131, 9
+08-27 16:37 Main function DEBUG    queue: [12, 40, 37, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['75', '81', '52', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('75', 0), ('52', 2)]
+08-27 16:37 Main function DEBUG    queue: [12, 40, 36, 44, 40, 38, 37]
+08-27 16:37 Main function DEBUG    names: ['75', '81', '86', '68', '100', '126', '52']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('75', 0), ('52', 6), ('126', 5), ('86', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    75, 12
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38]
+08-27 16:37 Main function DEBUG    names: ['86', '81', '52', '68', '100', '126']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('86', 0)]
+08-27 16:37 Main function DEBUG    queue: [16, 40, 36, 44, 40, 38, 37]
+08-27 16:37 Main function DEBUG    names: ['101', '81', '86', '68', '100', '126', '52']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 6), ('126', 5), ('86', 2), ('101', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    101, 16
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38]
+08-27 16:37 Main function DEBUG    names: ['86', '81', '52', '68', '100', '126']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('86', 0)]
+08-27 16:37 Main function DEBUG    queue: [12, 40, 36, 44, 40, 38, 37]
+08-27 16:37 Main function DEBUG    names: ['194', '81', '86', '68', '100', '126', '52']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 6), ('126', 5), ('86', 2), ('194', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    194, 12
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38]
+08-27 16:37 Main function DEBUG    names: ['86', '81', '52', '68', '100', '126']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('86', 0)]
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38]
+08-27 16:37 Main function DEBUG    names: ['86', '81', '52', '68', '100', '126']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('86', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    86, 36
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['52', '81', '126', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 0), ('126', 2)]
+08-27 16:37 Main function DEBUG    queue: [5, 40, 37, 44, 40, 38]
+08-27 16:37 Main function DEBUG    names: ['127', '81', '52', '68', '100', '126']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('127', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    127, 5
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['52', '81', '126', '68', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 0), ('126', 2)]
+08-27 16:37 Main function DEBUG    queue: [26, 40, 36, 44, 40, 38, 37, 44]
+08-27 16:37 Main function DEBUG    names: ['133', '81', '149', '68', '100', '126', '52', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 6), ('126', 5), ('149', 2), ('133', 0), ('144', 7)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    133, 26
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['149', '81', '52', '68', '100', '126', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('149', 0), ('144', 6)]
+08-27 16:37 Main function DEBUG    queue: [29, 36, 37, 40, 40, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['134', '149', '52', '81', '100', '126', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 3), ('68', 8), ('52', 2), ('126', 5), ('149', 1), ('144', 6), ('123', 7), ('134', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    134, 29
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['149', '81', '52', '68', '100', '126', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('149', 0), ('144', 6), ('123', 7)]
+08-27 16:37 Main function DEBUG    queue: [36, 40, 37, 44, 40, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['149', '81', '52', '68', '100', '126', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 2), ('126', 5), ('149', 0), ('144', 6), ('123', 7)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    149, 36
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['52', '81', '126', '68', '100', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 0), ('126', 2), ('144', 6), ('123', 5)]
+08-27 16:37 Main function DEBUG    queue: [36, 37, 38, 40, 40, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['78', '52', '126', '81', '100', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 3), ('68', 7), ('52', 1), ('126', 2), ('144', 6), ('123', 5), ('78', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    78, 36
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['52', '81', '126', '68', '100', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 3), ('52', 0), ('126', 2), ('144', 6), ('123', 5)]
+08-27 16:37 Main function DEBUG    queue: [4, 33, 38, 37, 37, 44, 44, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['174', '124', '126', '164', '52', '123', '144', '68', '81', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 9), ('81', 8), ('68', 7), ('52', 4), ('126', 2), ('144', 6), ('123', 5), ('124', 1), ('164', 3), ('174', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    174, 4
+08-27 16:37 Main function DEBUG    queue: [33, 37, 38, 40, 37, 44, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['124', '164', '126', '100', '52', '123', '144', '68', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 8), ('68', 7), ('52', 4), ('126', 2), ('144', 6), ('123', 5), ('124', 0), ('164', 1)]
+08-27 16:37 Main function DEBUG    queue: [33, 34, 38, 40, 37, 44, 44, 44, 40, 37]
+08-27 16:37 Main function DEBUG    names: ['124', '51', '126', '100', '164', '123', '144', '68', '81', '52']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 8), ('68', 7), ('52', 9), ('126', 2), ('144', 6), ('123', 5), ('124', 0), ('164', 4), ('51', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    124, 33
+08-27 16:37 Main function DEBUG    queue: [34, 37, 38, 40, 37, 44, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['51', '52', '126', '100', '164', '123', '144', '68', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 8), ('68', 7), ('52', 1), ('126', 2), ('144', 6), ('123', 5), ('164', 4), ('51', 0)]
+08-27 16:37 Main function DEBUG    queue: [34, 37, 38, 40, 37, 44, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['51', '52', '126', '100', '164', '123', '144', '68', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 8), ('68', 7), ('52', 1), ('126', 2), ('144', 6), ('123', 5), ('164', 4), ('51', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    51, 34
+08-27 16:37 Main function DEBUG    queue: [37, 37, 38, 40, 40, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['52', '164', '126', '100', '81', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 7), ('52', 0), ('126', 2), ('144', 6), ('123', 5), ('164', 1)]
+08-27 16:37 Main function DEBUG    queue: [37, 37, 38, 40, 40, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['52', '164', '126', '100', '81', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 7), ('52', 0), ('126', 2), ('144', 6), ('123', 5), ('164', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    52, 37
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['164', '100', '126', '68', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 3), ('126', 2), ('144', 6), ('123', 5), ('164', 0)]
+08-27 16:37 Main function DEBUG    queue: [37, 40, 38, 44, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['164', '100', '126', '68', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 3), ('126', 2), ('144', 6), ('123', 5), ('164', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    164, 37
+08-27 16:37 Main function DEBUG    queue: [38, 40, 44, 44, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['126', '100', '144', '68', '81', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 3), ('126', 0), ('144', 2), ('123', 5)]
+08-27 16:37 Main function DEBUG    queue: [38, 40, 39, 44, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['126', '100', '46', '68', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 3), ('126', 0), ('144', 6), ('123', 5), ('46', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    126, 38
+08-27 16:37 Main function DEBUG    queue: [39, 40, 44, 44, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '100', '144', '68', '81', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 3), ('144', 2), ('123', 5), ('46', 0)]
+08-27 16:37 Main function DEBUG    queue: [22, 40, 39, 40, 40, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['6', '100', '46', '182', '81', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 7), ('144', 6), ('123', 5), ('46', 2), ('6', 0), ('182', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    6, 22
+08-27 16:37 Main function DEBUG    queue: [39, 40, 44, 40, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '100', '68', '182', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 2), ('144', 6), ('123', 5), ('46', 0), ('182', 3)]
+08-27 16:37 Main function DEBUG    queue: [36, 39, 44, 40, 40, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['48', '46', '68', '100', '81', '123', '144', '182']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 2), ('144', 6), ('123', 5), ('46', 1), ('182', 7), ('48', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    48, 36
+08-27 16:37 Main function DEBUG    queue: [39, 40, 44, 40, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '182', '68', '100', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 2), ('144', 6), ('123', 5), ('46', 0), ('182', 1)]
+08-27 16:37 Main function DEBUG    queue: [31, 39, 44, 40, 40, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['12', '46', '68', '182', '81', '123', '144', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 7), ('81', 4), ('68', 2), ('144', 6), ('123', 5), ('46', 1), ('182', 3), ('12', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    12, 31
+08-27 16:37 Main function DEBUG    queue: [39, 40, 44, 40, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '100', '68', '182', '81', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 2), ('144', 6), ('123', 5), ('46', 0), ('182', 3)]
+08-27 16:37 Main function DEBUG    queue: [8, 8, 44, 39, 39, 44, 44, 40, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['34', '45', '68', '82', '46', '123', '144', '182', '100', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 9), ('68', 2), ('144', 6), ('123', 5), ('46', 4), ('182', 7), ('34', 0), ('82', 3), ('45', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    34, 8
+08-27 16:37 Main function DEBUG    queue: [8, 39, 44, 40, 39, 44, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['45', '82', '68', '81', '46', '123', '144', '182', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 4), ('182', 7), ('82', 1), ('45', 0)]
+08-27 16:37 Main function DEBUG    queue: [8, 34, 44, 40, 38, 44, 44, 40, 40, 39, 39]
+08-27 16:37 Main function DEBUG    names: ['45', '181', '68', '81', '188', '123', '144', '182', '100', '46', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 10), ('45', 0), ('188', 4), ('181', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    45, 8
+08-27 16:37 Main function DEBUG    queue: [34, 38, 44, 40, 39, 44, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['181', '188', '68', '81', '82', '123', '144', '182', '100', '46']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 4), ('188', 1), ('181', 0)]
+08-27 16:37 Main function DEBUG    queue: [10, 34, 44, 40, 38, 44, 44, 40, 40, 39, 39]
+08-27 16:37 Main function DEBUG    names: ['161', '181', '68', '81', '188', '123', '144', '182', '100', '46', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 10), ('188', 4), ('181', 1), ('161', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    161, 10
+08-27 16:37 Main function DEBUG    queue: [34, 38, 44, 40, 39, 44, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['181', '188', '68', '81', '82', '123', '144', '182', '100', '46']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 4), ('188', 1), ('181', 0)]
+08-27 16:37 Main function DEBUG    queue: [4, 34, 44, 40, 38, 44, 44, 40, 40, 39, 39]
+08-27 16:37 Main function DEBUG    names: ['79', '181', '68', '81', '188', '123', '144', '182', '100', '46', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 10), ('188', 4), ('181', 1), ('79', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    79, 4
+08-27 16:37 Main function DEBUG    queue: [34, 38, 44, 40, 39, 44, 44, 40, 40, 39]
+08-27 16:37 Main function DEBUG    names: ['181', '188', '68', '81', '82', '123', '144', '182', '100', '46']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 2), ('144', 6), ('123', 5), ('46', 9), ('182', 7), ('82', 4), ('188', 1), ('181', 0)]
+08-27 16:37 Main function DEBUG    queue: [34, 38, 42, 40, 39, 44, 44, 40, 40, 39, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['181', '188', '142', '81', '82', '68', '144', '182', '100', '46', '62', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 11), ('46', 9), ('182', 7), ('82', 4), ('188', 1), ('181', 0), ('62', 10), ('142', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    181, 34
+08-27 16:37 Main function DEBUG    queue: [38, 39, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['188', '82', '142', '81', '46', '68', '144', '182', '100', '123', '62']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 1), ('188', 0), ('62', 10), ('142', 2)]
+08-27 16:37 Main function DEBUG    queue: [38, 39, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['188', '82', '142', '81', '46', '68', '144', '182', '100', '123', '62']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 1), ('188', 0), ('62', 10), ('142', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    188, 38
+08-27 16:37 Main function DEBUG    queue: [39, 39, 42, 40, 39, 44, 44, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['62', '82', '142', '81', '46', '68', '144', '182', '100', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 1), ('62', 0), ('142', 2)]
+08-27 16:37 Main function DEBUG    queue: [39, 39, 42, 40, 39, 44, 44, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['62', '82', '142', '81', '46', '68', '144', '182', '100', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 1), ('62', 0), ('142', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    62, 39
+08-27 16:37 Main function DEBUG    queue: [39, 39, 42, 40, 44, 44, 44, 40, 40]
+08-27 16:37 Main function DEBUG    names: ['82', '46', '142', '81', '123', '68', '144', '182', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 4), ('46', 1), ('182', 7), ('82', 0), ('142', 2)]
+08-27 16:37 Main function DEBUG    queue: [14, 37, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['93', '83', '142', '81', '82', '68', '144', '182', '100', '123', '46']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 10), ('182', 7), ('82', 4), ('142', 2), ('83', 1), ('93', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    93, 14
+08-27 16:37 Main function DEBUG    queue: [37, 39, 42, 40, 39, 44, 44, 40, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['83', '46', '142', '81', '82', '68', '144', '182', '100', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 1), ('182', 7), ('82', 4), ('142', 2), ('83', 0)]
+08-27 16:37 Main function DEBUG    queue: [3, 37, 6, 40, 39, 12, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['143', '83', '15', '81', '46', '28', '144', '182', '100', '123', '82', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 12), ('83', 1), ('15', 2), ('28', 5), ('143', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    143, 3
+08-27 16:37 Main function DEBUG    queue: [6, 37, 12, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['15', '83', '28', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('15', 0), ('28', 2)]
+08-27 16:37 Main function DEBUG    queue: [6, 37, 12, 40, 39, 22, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['15', '83', '28', '81', '46', '184', '144', '182', '100', '123', '82', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 12), ('83', 1), ('15', 0), ('28', 2), ('184', 5)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    15, 6
+08-27 16:37 Main function DEBUG    queue: [12, 37, 22, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['28', '83', '184', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('28', 0), ('184', 2)]
+08-27 16:37 Main function DEBUG    queue: [12, 37, 22, 40, 39, 27, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['28', '83', '184', '81', '46', '196', '144', '182', '100', '123', '82', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 12), ('83', 1), ('28', 0), ('184', 2), ('196', 5)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    28, 12
+08-27 16:37 Main function DEBUG    queue: [22, 37, 27, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['184', '83', '196', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('184', 0), ('196', 2)]
+08-27 16:37 Main function DEBUG    queue: [22, 37, 27, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['184', '83', '196', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('184', 0), ('196', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    184, 22
+08-27 16:37 Main function DEBUG    queue: [27, 37, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '142', '81', '46', '68', '144', '182', '100', '123', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('196', 0)]
+08-27 16:37 Main function DEBUG    queue: [15, 37, 27, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['74', '83', '196', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('74', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    74, 15
+08-27 16:37 Main function DEBUG    queue: [27, 37, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '142', '81', '46', '68', '144', '182', '100', '123', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('196', 0)]
+08-27 16:37 Main function DEBUG    queue: [6, 37, 27, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['195', '83', '196', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('195', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    195, 6
+08-27 16:37 Main function DEBUG    queue: [27, 37, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '142', '81', '46', '68', '144', '182', '100', '123', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('196', 0)]
+08-27 16:37 Main function DEBUG    queue: [19, 37, 27, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['22', '83', '196', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('22', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    22, 19
+08-27 16:37 Main function DEBUG    queue: [27, 37, 42, 40, 39, 44, 44, 40, 40, 44, 39]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '142', '81', '46', '68', '144', '182', '100', '123', '82']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 5), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('196', 0)]
+08-27 16:37 Main function DEBUG    queue: [18, 37, 27, 40, 39, 42, 33, 40, 40, 44, 39, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['38', '83', '196', '81', '46', '142', '150', '182', '100', '123', '82', '68', '125', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 13), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('38', 0), ('125', 12), ('150', 6)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    38, 18
+08-27 16:37 Main function DEBUG    queue: [27, 37, 33, 40, 39, 42, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '150', '81', '46', '142', '144', '182', '100', '123', '82', '68', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 0), ('125', 12), ('150', 2)]
+08-27 16:37 Main function DEBUG    queue: [26, 37, 27, 40, 39, 42, 33, 40, 40, 44, 39, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['140', '83', '196', '81', '46', '142', '150', '182', '100', '123', '82', '68', '125', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 13), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('125', 12), ('150', 6), ('140', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    140, 26
+08-27 16:37 Main function DEBUG    queue: [27, 37, 33, 40, 39, 42, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '150', '81', '46', '142', '144', '182', '100', '123', '82', '68', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 0), ('125', 12), ('150', 2)]
+08-27 16:37 Main function DEBUG    queue: [15, 37, 23, 40, 39, 42, 27, 40, 40, 44, 39, 44, 42, 44, 33]
+08-27 16:37 Main function DEBUG    names: ['115', '83', '177', '81', '46', '142', '196', '182', '100', '123', '82', '68', '125', '144', '150']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 13), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 6), ('125', 12), ('150', 14), ('177', 2), ('115', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    115, 15
+08-27 16:37 Main function DEBUG    queue: [23, 37, 27, 40, 39, 42, 33, 40, 40, 44, 39, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['177', '83', '196', '81', '46', '142', '150', '182', '100', '123', '82', '68', '125', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 13), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('125', 12), ('150', 6), ('177', 0)]
+08-27 16:37 Main function DEBUG    queue: [23, 37, 27, 40, 39, 42, 33, 40, 40, 44, 39, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['177', '83', '196', '81', '46', '142', '150', '182', '100', '123', '82', '68', '125', '144']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 13), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 2), ('125', 12), ('150', 6), ('177', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    177, 23
+08-27 16:37 Main function DEBUG    queue: [27, 37, 33, 40, 39, 42, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '150', '81', '46', '142', '144', '182', '100', '123', '82', '68', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 0), ('125', 12), ('150', 2)]
+08-27 16:37 Main function DEBUG    queue: [27, 37, 33, 40, 39, 42, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['196', '83', '150', '81', '46', '142', '144', '182', '100', '123', '82', '68', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('196', 0), ('125', 12), ('150', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    196, 27
+08-27 16:37 Main function DEBUG    queue: [33, 37, 42, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['150', '83', '125', '81', '46', '142', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 5), ('83', 1), ('125', 2), ('150', 0)]
+08-27 16:37 Main function DEBUG    queue: [17, 37, 33, 40, 39, 42, 44, 40, 40, 44, 39, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['26', '83', '150', '81', '46', '125', '144', '182', '100', '123', '82', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 12), ('83', 1), ('125', 5), ('150', 2), ('26', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    26, 17
+08-27 16:37 Main function DEBUG    queue: [33, 37, 42, 40, 39, 42, 44, 40, 40, 44, 39, 44]
+08-27 16:37 Main function DEBUG    names: ['150', '83', '142', '81', '46', '125', '144', '182', '100', '123', '82', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('125', 5), ('150', 0)]
+08-27 16:37 Main function DEBUG    queue: [33, 37, 42, 40, 39, 42, 44, 40, 40, 44, 39, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['150', '83', '142', '81', '46', '125', '144', '182', '100', '123', '82', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 4), ('182', 7), ('82', 10), ('142', 2), ('83', 1), ('125', 5), ('150', 0), ('192', 12)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    150, 33
+08-27 16:37 Main function DEBUG    queue: [37, 39, 42, 40, 39, 42, 44, 40, 40, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['83', '46', '142', '81', '82', '125', '144', '182', '100', '123', '192', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 1), ('182', 7), ('82', 4), ('142', 2), ('83', 0), ('125', 5), ('192', 10)]
+08-27 16:37 Main function DEBUG    queue: [37, 39, 42, 40, 39, 42, 44, 40, 40, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['83', '46', '142', '81', '82', '125', '144', '182', '100', '123', '192', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 11), ('144', 6), ('123', 9), ('46', 1), ('182', 7), ('82', 4), ('142', 2), ('83', 0), ('125', 5), ('192', 10)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    83, 37
+08-27 16:37 Main function DEBUG    queue: [39, 39, 42, 40, 43, 42, 44, 40, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '82', '142', '81', '192', '125', '144', '182', '100', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 10), ('144', 6), ('123', 9), ('46', 0), ('182', 7), ('82', 1), ('142', 2), ('125', 5), ('192', 4)]
+08-27 16:37 Main function DEBUG    queue: [39, 39, 42, 40, 43, 42, 44, 40, 40, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['46', '82', '142', '81', '192', '125', '144', '182', '100', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 3), ('68', 10), ('144', 6), ('123', 9), ('46', 0), ('182', 7), ('82', 1), ('142', 2), ('125', 5), ('192', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    46, 39
+08-27 16:37 Main function DEBUG    queue: [39, 40, 42, 40, 43, 42, 44, 44, 40, 44]
+08-27 16:37 Main function DEBUG    names: ['82', '81', '142', '182', '192', '125', '144', '68', '100', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('182', 3), ('82', 0), ('142', 2), ('125', 5), ('192', 4)]
+08-27 16:37 Main function DEBUG    queue: [17, 39, 42, 40, 40, 42, 44, 44, 40, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['40', '82', '142', '182', '81', '125', '144', '68', '100', '123', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 8), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('182', 3), ('82', 1), ('142', 2), ('125', 5), ('192', 10), ('40', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    40, 17
+08-27 16:37 Main function DEBUG    queue: [39, 40, 42, 40, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['82', '182', '142', '100', '81', '125', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('182', 1), ('82', 0), ('142', 2), ('125', 5), ('192', 8)]
+08-27 16:37 Main function DEBUG    queue: [1, 39, 18, 40, 40, 42, 44, 44, 43, 44, 40, 42]
+08-27 16:37 Main function DEBUG    names: ['23', '82', '56', '100', '182', '142', '144', '68', '192', '123', '81', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('182', 4), ('82', 1), ('142', 5), ('125', 11), ('192', 8), ('23', 0), ('56', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    23, 1
+08-27 16:37 Main function DEBUG    queue: [18, 39, 42, 40, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['56', '82', '125', '100', '182', '142', '144', '68', '192', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('182', 4), ('82', 1), ('142', 5), ('125', 2), ('192', 8), ('56', 0)]
+08-27 16:37 Main function DEBUG    queue: [18, 39, 42, 40, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['56', '82', '125', '100', '182', '142', '144', '68', '192', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('182', 4), ('82', 1), ('142', 5), ('125', 2), ('192', 8), ('56', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    56, 18
+08-27 16:37 Main function DEBUG    queue: [39, 40, 42, 40, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['82', '81', '125', '100', '182', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('182', 4), ('82', 0), ('142', 5), ('125', 2), ('192', 8)]
+08-27 16:37 Main function DEBUG    queue: [39, 40, 42, 40, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['82', '81', '125', '100', '182', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('182', 4), ('82', 0), ('142', 5), ('125', 2), ('192', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    82, 39
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '192', '182', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 8), ('182', 4), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    queue: [9, 40, 42, 43, 40, 42, 44, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['63', '81', '125', '192', '100', '142', '144', '68', '123', '182']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 8), ('182', 9), ('142', 5), ('125', 2), ('192', 3), ('63', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    63, 9
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['182', '81', '125', '192', '100', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 8), ('182', 0), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['182', '81', '125', '192', '100', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 8), ('182', 0), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    182, 40
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '192', '123', '142', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    queue: [17, 40, 42, 40, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['178', '81', '125', '100', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 1), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('178', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    178, 17
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '192', '123', '142', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    queue: [11, 18, 42, 40, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['90', '166', '125', '100', '81', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('166', 1), ('90', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    90, 11
+08-27 16:37 Main function DEBUG    queue: [18, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['166', '100', '125', '192', '81', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 7), ('144', 6), ('123', 8), ('142', 5), ('125', 2), ('192', 3), ('166', 0)]
+08-27 16:37 Main function DEBUG    queue: [18, 18, 42, 43, 40, 42, 44, 44, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['166', '175', '125', '192', '100', '142', '144', '68', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 9), ('68', 7), ('144', 6), ('123', 8), ('142', 5), ('125', 2), ('192', 3), ('166', 0), ('175', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    166, 18
+08-27 16:37 Main function DEBUG    queue: [18, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['175', '81', '125', '192', '100', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 8), ('142', 5), ('125', 2), ('192', 3), ('175', 0)]
+08-27 16:37 Main function DEBUG    queue: [18, 40, 42, 43, 40, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['175', '81', '125', '192', '100', '142', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 8), ('142', 5), ('125', 2), ('192', 3), ('175', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    175, 18
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '192', '123', '142', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 3)]
+08-27 16:37 Main function DEBUG    queue: [4, 32, 42, 40, 40, 42, 44, 44, 43, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['189', '58', '125', '100', '81', '142', '144', '68', '192', '123', '156']
+08-27 16:37 Main function DEBUG    dict: [('100', 3), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('189', 0), ('156', 10), ('58', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    189, 4
+08-27 16:37 Main function DEBUG    queue: [32, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['58', '100', '125', '156', '81', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('58', 0)]
+08-27 16:37 Main function DEBUG    queue: [11, 32, 42, 43, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['70', '58', '125', '156', '100', '142', '144', '68', '192', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('58', 1), ('70', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    70, 11
+08-27 16:37 Main function DEBUG    queue: [32, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['58', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('58', 0)]
+08-27 16:37 Main function DEBUG    queue: [16, 32, 17, 43, 40, 42, 44, 44, 43, 44, 40, 42]
+08-27 16:37 Main function DEBUG    names: ['50', '58', '180', '156', '81', '125', '144', '68', '192', '123', '100', '142']
+08-27 16:37 Main function DEBUG    dict: [('100', 10), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 11), ('125', 5), ('192', 8), ('156', 3), ('58', 1), ('180', 2), ('50', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    50, 16
+08-27 16:37 Main function DEBUG    queue: [17, 32, 42, 43, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['180', '58', '142', '156', '81', '125', '144', '68', '192', '123', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 10), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 2), ('125', 5), ('192', 8), ('156', 3), ('58', 1), ('180', 0)]
+08-27 16:37 Main function DEBUG    queue: [17, 32, 42, 43, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['180', '58', '142', '156', '81', '125', '144', '68', '192', '123', '100']
+08-27 16:37 Main function DEBUG    dict: [('100', 10), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 2), ('125', 5), ('192', 8), ('156', 3), ('58', 1), ('180', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    180, 17
+08-27 16:37 Main function DEBUG    queue: [32, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['58', '100', '142', '156', '81', '125', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 4), ('68', 7), ('144', 6), ('123', 9), ('142', 2), ('125', 5), ('192', 8), ('156', 3), ('58', 0)]
+08-27 16:37 Main function DEBUG    queue: [1, 35, 32, 43, 40, 42, 44, 44, 43, 44, 40, 42]
+08-27 16:37 Main function DEBUG    names: ['198', '121', '58', '156', '100', '142', '144', '68', '192', '123', '81', '125']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 11), ('192', 8), ('156', 3), ('58', 2), ('121', 1), ('198', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    198, 1
+08-27 16:37 Main function DEBUG    queue: [32, 35, 42, 43, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['58', '121', '125', '156', '100', '142', '144', '68', '192', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('58', 0), ('121', 1)]
+08-27 16:37 Main function DEBUG    queue: [32, 35, 42, 43, 40, 42, 44, 44, 43, 44, 40]
+08-27 16:37 Main function DEBUG    names: ['58', '121', '125', '156', '100', '142', '144', '68', '192', '123', '81']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 10), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('58', 0), ('121', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    58, 32
+08-27 16:37 Main function DEBUG    queue: [35, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['121', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('121', 0)]
+08-27 16:37 Main function DEBUG    queue: [35, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['121', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('121', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    121, 35
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [17, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['41', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('41', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    41, 17
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [33, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['31', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('31', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    31, 33
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [38, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['109', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('109', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    109, 38
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [1, 40, 42, 43, 40, 42, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['47', '81', '125', '156', '100', '142', '144', '68', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('100', 4), ('81', 1), ('68', 7), ('144', 6), ('123', 9), ('142', 5), ('125', 2), ('192', 8), ('156', 3), ('47', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    47, 1
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [40, 40, 42, 43, 44, 42, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['81', '100', '125', '156', '123', '142', '144', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('100', 1), ('81', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 8), ('156', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    81, 40
+08-27 16:37 Main function DEBUG    queue: [40, 43, 42, 43, 44, 42, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['100', '192', '125', '156', '123', '142', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 1), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [40, 43, 42, 43, 44, 42, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['100', '192', '125', '156', '123', '142', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('100', 0), ('68', 7), ('144', 6), ('123', 4), ('142', 5), ('125', 2), ('192', 1), ('156', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    100, 40
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '192', '142', '156', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 4), ('142', 2), ('125', 0), ('192', 1), ('156', 3)]
+08-27 16:37 Main function DEBUG    queue: [13, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['186', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('186', 0), ('104', 1), ('128', 4), ('147', 10)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    186, 13
+08-27 16:37 Main function DEBUG    queue: [41, 41, 42, 42, 44, 44, 44, 43, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '128', '142', '125', '147', '68', '144', '156', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 0), ('128', 1), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [8, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['162', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('162', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    162, 8
+08-27 16:37 Main function DEBUG    queue: [41, 41, 42, 42, 44, 44, 44, 43, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '128', '142', '125', '147', '68', '144', '156', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 0), ('128', 1), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [8, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['185', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('185', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    185, 8
+08-27 16:37 Main function DEBUG    queue: [41, 41, 42, 42, 44, 44, 44, 43, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '128', '142', '125', '147', '68', '144', '156', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 0), ('128', 1), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [4, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['19', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('19', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    19, 4
+08-27 16:37 Main function DEBUG    queue: [41, 41, 42, 42, 44, 44, 44, 43, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '128', '142', '125', '147', '68', '144', '156', '192', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 0), ('128', 1), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [8, 41, 14, 42, 41, 14, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['159', '104', '200', '125', '128', '92', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('200', 2), ('92', 5), ('159', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    159, 8
+08-27 16:37 Main function DEBUG    queue: [14, 41, 14, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['200', '104', '92', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('200', 0), ('92', 2)]
+08-27 16:37 Main function DEBUG    queue: [14, 41, 14, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['200', '104', '92', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('200', 0), ('92', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    200, 14
+08-27 16:37 Main function DEBUG    queue: [14, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['92', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 0)]
+08-27 16:37 Main function DEBUG    queue: [4, 41, 14, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['4', '104', '92', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 2), ('4', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    4, 4
+08-27 16:37 Main function DEBUG    queue: [14, 41, 42, 42, 41, 44, 44, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['92', '104', '142', '125', '128', '68', '144', '156', '192', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 6), ('123', 9), ('142', 2), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 0)]
+08-27 16:37 Main function DEBUG    queue: [7, 41, 14, 42, 41, 14, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['167', '104', '92', '125', '128', '158', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 2), ('158', 5), ('167', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    167, 7
+08-27 16:37 Main function DEBUG    queue: [14, 41, 14, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['92', '104', '158', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 0), ('158', 2)]
+08-27 16:37 Main function DEBUG    queue: [14, 41, 14, 42, 41, 22, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['92', '104', '158', '125', '128', '160', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('92', 0), ('158', 2), ('160', 5)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    92, 14
+08-27 16:37 Main function DEBUG    queue: [14, 41, 22, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['158', '104', '160', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('158', 0), ('160', 2)]
+08-27 16:37 Main function DEBUG    queue: [14, 41, 22, 42, 41, 35, 28, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['158', '104', '160', '125', '128', '37', '9', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('158', 0), ('160', 2), ('37', 5), ('9', 6)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    158, 14
+08-27 16:37 Main function DEBUG    queue: [22, 41, 28, 42, 41, 35, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['160', '104', '9', '125', '128', '37', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('160', 0), ('37', 5), ('9', 2)]
+08-27 16:37 Main function DEBUG    queue: [1, 41, 22, 42, 41, 35, 28, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['153', '104', '160', '125', '128', '37', '9', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('160', 2), ('37', 5), ('9', 6), ('153', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    153, 1
+08-27 16:37 Main function DEBUG    queue: [22, 41, 28, 42, 41, 35, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['160', '104', '9', '125', '128', '37', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('160', 0), ('37', 5), ('9', 2)]
+08-27 16:37 Main function DEBUG    queue: [22, 41, 28, 42, 41, 35, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['160', '104', '9', '125', '128', '37', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('160', 0), ('37', 5), ('9', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    160, 22
+08-27 16:37 Main function DEBUG    queue: [28, 41, 35, 42, 41, 42, 44, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['9', '104', '37', '125', '128', '142', '144', '156', '192', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 5), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 2), ('9', 0)]
+08-27 16:37 Main function DEBUG    queue: [13, 41, 28, 42, 41, 35, 30, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['179', '104', '9', '125', '128', '37', '21', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 5), ('9', 2), ('179', 0), ('21', 6)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    179, 13
+08-27 16:37 Main function DEBUG    queue: [28, 41, 30, 42, 41, 35, 44, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['9', '104', '21', '125', '128', '37', '144', '156', '192', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 6), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 5), ('9', 0), ('21', 2)]
+08-27 16:37 Main function DEBUG    queue: [28, 41, 30, 42, 41, 35, 34, 43, 43, 44, 44, 44, 42, 44, 36]
+08-27 16:37 Main function DEBUG    names: ['9', '104', '21', '125', '128', '37', '13', '156', '192', '123', '147', '68', '142', '144', '87']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 5), ('9', 0), ('21', 2), ('13', 6), ('87', 14)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    9, 28
+08-27 16:37 Main function DEBUG    queue: [30, 41, 34, 42, 41, 35, 36, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['21', '104', '13', '125', '128', '37', '87', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 5), ('21', 0), ('13', 2), ('87', 6)]
+08-27 16:37 Main function DEBUG    queue: [30, 41, 34, 42, 41, 35, 35, 43, 43, 44, 44, 44, 42, 44, 36]
+08-27 16:37 Main function DEBUG    names: ['21', '104', '13', '125', '128', '37', '148', '156', '192', '123', '147', '68', '142', '144', '87']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 5), ('21', 0), ('13', 2), ('87', 14), ('148', 6)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    21, 30
+08-27 16:37 Main function DEBUG    queue: [34, 41, 35, 42, 41, 36, 35, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['13', '104', '37', '125', '128', '87', '148', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 2), ('13', 0), ('87', 5), ('148', 6)]
+08-27 16:37 Main function DEBUG    queue: [7, 41, 34, 42, 41, 36, 35, 43, 43, 44, 44, 44, 42, 44, 35]
+08-27 16:37 Main function DEBUG    names: ['135', '104', '13', '125', '128', '87', '37', '156', '192', '123', '147', '68', '142', '144', '148']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 6), ('13', 2), ('87', 5), ('148', 14), ('135', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    135, 7
+08-27 16:37 Main function DEBUG    queue: [34, 41, 35, 42, 41, 36, 35, 43, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['13', '104', '148', '125', '128', '87', '37', '156', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 3), ('192', 8), ('156', 7), ('104', 1), ('128', 4), ('147', 10), ('37', 6), ('13', 0), ('87', 5), ('148', 2)]
+08-27 16:37 Main function DEBUG    queue: [34, 40, 35, 41, 41, 36, 35, 42, 43, 44, 44, 44, 42, 44, 35, 43]
+08-27 16:37 Main function DEBUG    names: ['13', '136', '148', '104', '128', '87', '37', '125', '192', '123', '147', '68', '142', '144', '69', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 15), ('104', 3), ('128', 4), ('147', 10), ('37', 6), ('13', 0), ('87', 5), ('148', 2), ('69', 14), ('136', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    13, 34
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 41, 41, 36, 35, 42, 43, 44, 44, 44, 42, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['148', '136', '37', '104', '128', '87', '69', '125', '192', '123', '147', '68', '142', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 14), ('104', 3), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('148', 0), ('69', 6), ('136', 1)]
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 41, 41, 36, 35, 42, 43, 44, 44, 44, 42, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['148', '136', '37', '104', '128', '87', '69', '125', '192', '123', '147', '68', '142', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 14), ('104', 3), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('148', 0), ('69', 6), ('136', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    148, 35
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 41, 41, 36, 43, 42, 43, 44, 44, 44, 42, 44]
+08-27 16:37 Main function DEBUG    names: ['37', '136', '69', '104', '128', '87', '156', '125', '192', '123', '147', '68', '142', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 6), ('104', 3), ('128', 4), ('147', 10), ('37', 0), ('87', 5), ('69', 2), ('136', 1)]
+08-27 16:37 Main function DEBUG    queue: [10, 34, 35, 40, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['20', '168', '37', '136', '128', '87', '69', '104', '192', '123', '147', '68', '142', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 7), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 3), ('20', 0), ('168', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    20, 10
+08-27 16:37 Main function DEBUG    queue: [34, 40, 35, 41, 41, 36, 35, 42, 43, 44, 44, 44, 42, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['168', '136', '37', '104', '128', '87', '69', '125', '192', '123', '147', '68', '142', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 14), ('104', 3), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 1), ('168', 0)]
+08-27 16:37 Main function DEBUG    queue: [26, 34, 35, 40, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['171', '168', '37', '136', '128', '87', '69', '104', '192', '123', '147', '68', '142', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 7), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 3), ('168', 1), ('171', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    171, 26
+08-27 16:37 Main function DEBUG    queue: [34, 40, 35, 41, 41, 36, 35, 42, 43, 44, 44, 44, 42, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['168', '136', '37', '104', '128', '87', '69', '125', '192', '123', '147', '68', '142', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 7), ('192', 8), ('156', 14), ('104', 3), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 1), ('168', 0)]
+08-27 16:37 Main function DEBUG    queue: [6, 20, 35, 29, 41, 36, 35, 40, 34, 44, 44, 44, 42, 44, 43, 42, 41, 43]
+08-27 16:37 Main function DEBUG    names: ['98', '43', '37', '49', '128', '87', '69', '136', '168', '123', '147', '68', '142', '144', '156', '125', '104', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 17), ('156', 14), ('104', 16), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 7), ('168', 8), ('49', 3), ('43', 1), ('98', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    98, 6
+08-27 16:37 Main function DEBUG    queue: [20, 29, 35, 34, 41, 36, 35, 40, 43, 44, 44, 44, 42, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['43', '49', '37', '168', '128', '87', '69', '136', '192', '123', '147', '68', '142', '144', '156', '125', '104']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 16), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 7), ('168', 3), ('49', 1), ('43', 0)]
+08-27 16:37 Main function DEBUG    queue: [20, 29, 35, 34, 41, 36, 35, 40, 43, 44, 44, 44, 42, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['43', '49', '37', '168', '128', '87', '69', '136', '192', '123', '147', '68', '142', '144', '156', '125', '104']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 16), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 7), ('168', 3), ('49', 1), ('43', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    43, 20
+08-27 16:37 Main function DEBUG    queue: [29, 34, 35, 40, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['49', '168', '37', '136', '128', '87', '69', '104', '192', '123', '147', '68', '142', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 7), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 3), ('168', 1), ('49', 0)]
+08-27 16:37 Main function DEBUG    queue: [29, 34, 35, 40, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['49', '168', '37', '136', '128', '87', '69', '104', '192', '123', '147', '68', '142', '144', '156', '125', '39']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 7), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 3), ('168', 1), ('49', 0), ('39', 16)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    49, 29
+08-27 16:37 Main function DEBUG    queue: [34, 40, 35, 41, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['168', '136', '37', '39', '128', '87', '69', '104', '192', '123', '147', '68', '142', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 7), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 1), ('168', 0), ('39', 3)]
+08-27 16:37 Main function DEBUG    queue: [34, 40, 35, 40, 41, 36, 35, 41, 43, 44, 44, 44, 42, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['168', '136', '37', '66', '128', '87', '69', '39', '192', '123', '147', '68', '142', '144', '156', '125', '104']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 16), ('128', 4), ('147', 10), ('37', 2), ('87', 5), ('69', 6), ('136', 1), ('168', 0), ('39', 7), ('66', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    168, 34
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 40, 41, 36, 41, 41, 43, 44, 44, 44, 42, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['37', '136', '69', '66', '128', '87', '104', '39', '192', '123', '147', '68', '142', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 8), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 0), ('87', 5), ('69', 2), ('136', 1), ('39', 7), ('66', 3)]
+08-27 16:37 Main function DEBUG    queue: [9, 28, 35, 35, 41, 36, 41, 40, 40, 44, 44, 44, 42, 44, 43, 42, 41, 43]
+08-27 16:37 Main function DEBUG    names: ['32', '129', '69', '37', '128', '87', '104', '66', '136', '123', '147', '68', '142', '144', '156', '125', '39', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 17), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 3), ('87', 5), ('69', 2), ('136', 8), ('39', 16), ('66', 7), ('129', 1), ('32', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    32, 9
+08-27 16:37 Main function DEBUG    queue: [28, 35, 35, 40, 41, 36, 41, 41, 40, 44, 44, 44, 42, 44, 43, 42, 43]
+08-27 16:37 Main function DEBUG    names: ['129', '37', '69', '66', '128', '87', '104', '39', '136', '123', '147', '68', '142', '144', '156', '125', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 1), ('87', 5), ('69', 2), ('136', 8), ('39', 7), ('66', 3), ('129', 0)]
+08-27 16:37 Main function DEBUG    queue: [21, 28, 35, 35, 41, 36, 41, 41, 40, 44, 44, 44, 42, 44, 43, 42, 43, 40, 43]
+08-27 16:37 Main function DEBUG    names: ['193', '129', '69', '37', '128', '87', '104', '39', '66', '123', '147', '68', '142', '144', '156', '125', '192', '136', '65']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 3), ('87', 5), ('69', 2), ('136', 17), ('39', 7), ('66', 8), ('129', 1), ('193', 0), ('65', 18)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    193, 21
+08-27 16:37 Main function DEBUG    queue: [28, 35, 35, 40, 41, 36, 41, 41, 40, 44, 44, 44, 42, 44, 43, 42, 43, 43]
+08-27 16:37 Main function DEBUG    names: ['129', '37', '69', '66', '128', '87', '104', '39', '136', '123', '147', '68', '142', '144', '156', '125', '192', '65']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 1), ('87', 5), ('69', 2), ('136', 8), ('39', 7), ('66', 3), ('129', 0), ('65', 17)]
+08-27 16:37 Main function DEBUG    queue: [28, 35, 35, 40, 41, 36, 41, 41, 40, 44, 44, 44, 42, 44, 43, 42, 43, 43]
+08-27 16:37 Main function DEBUG    names: ['129', '37', '69', '66', '128', '87', '104', '39', '136', '123', '147', '68', '142', '144', '156', '125', '192', '65']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 1), ('87', 5), ('69', 2), ('136', 8), ('39', 7), ('66', 3), ('129', 0), ('65', 17)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    129, 28
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 40, 41, 36, 41, 41, 43, 44, 44, 44, 42, 44, 43, 42, 43]
+08-27 16:37 Main function DEBUG    names: ['37', '66', '69', '136', '128', '87', '104', '39', '65', '123', '147', '68', '142', '144', '156', '125', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 0), ('87', 5), ('69', 2), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    queue: [35, 40, 35, 40, 41, 36, 41, 41, 43, 44, 44, 44, 42, 44, 43, 42, 43]
+08-27 16:37 Main function DEBUG    names: ['37', '66', '69', '136', '128', '87', '104', '39', '65', '123', '147', '68', '142', '144', '156', '125', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 12), ('125', 15), ('192', 16), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('37', 0), ('87', 5), ('69', 2), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    37, 35
+08-27 16:37 Main function DEBUG    queue: [35, 40, 36, 40, 41, 42, 41, 41, 43, 44, 44, 44, 43, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['69', '66', '87', '136', '128', '142', '104', '39', '65', '123', '147', '68', '192', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 15), ('192', 12), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('87', 2), ('69', 0), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    queue: [35, 40, 36, 40, 41, 42, 41, 41, 43, 44, 44, 44, 43, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['69', '66', '87', '136', '128', '142', '104', '39', '65', '123', '147', '68', '192', '144', '156', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 15), ('192', 12), ('156', 14), ('104', 6), ('128', 4), ('147', 10), ('87', 2), ('69', 0), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    69, 35
+08-27 16:37 Main function DEBUG    queue: [36, 40, 41, 40, 41, 42, 42, 41, 43, 44, 44, 44, 43, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['87', '66', '104', '136', '128', '142', '125', '39', '65', '123', '147', '68', '192', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 14), ('104', 2), ('128', 4), ('147', 10), ('87', 0), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    queue: [35, 36, 41, 40, 41, 42, 42, 40, 43, 44, 44, 44, 43, 44, 43, 41]
+08-27 16:37 Main function DEBUG    names: ['114', '87', '104', '66', '128', '142', '125', '136', '65', '123', '147', '68', '192', '144', '156', '39']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 14), ('104', 2), ('128', 4), ('147', 10), ('87', 1), ('136', 7), ('39', 15), ('66', 3), ('65', 8), ('114', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    114, 35
+08-27 16:37 Main function DEBUG    queue: [36, 40, 41, 40, 41, 42, 42, 41, 43, 44, 44, 44, 43, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['87', '66', '104', '136', '128', '142', '125', '39', '65', '123', '147', '68', '192', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 14), ('104', 2), ('128', 4), ('147', 10), ('87', 0), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    queue: [36, 40, 41, 40, 41, 42, 42, 41, 43, 44, 44, 44, 43, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['87', '66', '104', '136', '128', '142', '125', '39', '65', '123', '147', '68', '192', '144', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 14), ('104', 2), ('128', 4), ('147', 10), ('87', 0), ('136', 3), ('39', 7), ('66', 1), ('65', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    87, 36
+08-27 16:37 Main function DEBUG    queue: [40, 40, 41, 41, 41, 42, 42, 43, 43, 44, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['66', '136', '104', '39', '128', '142', '125', '156', '65', '123', '147', '68', '192', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 7), ('104', 2), ('128', 4), ('147', 10), ('136', 1), ('39', 3), ('66', 0), ('65', 8)]
+08-27 16:37 Main function DEBUG    queue: [40, 40, 41, 41, 41, 42, 42, 43, 43, 44, 44, 44, 43, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['66', '136', '104', '39', '128', '142', '125', '156', '65', '123', '147', '68', '192', '144', '42']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 7), ('104', 2), ('128', 4), ('147', 10), ('136', 1), ('39', 3), ('66', 0), ('65', 8), ('42', 14)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    66, 40
+08-27 16:37 Main function DEBUG    queue: [40, 41, 41, 43, 41, 42, 42, 43, 43, 44, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['136', '39', '104', '42', '128', '142', '125', '156', '65', '123', '147', '68', '192', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 7), ('104', 2), ('128', 4), ('147', 10), ('136', 0), ('39', 1), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [40, 41, 41, 43, 41, 42, 42, 43, 43, 44, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['136', '39', '104', '42', '128', '142', '125', '156', '65', '123', '147', '68', '192', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 13), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 7), ('104', 2), ('128', 4), ('147', 10), ('136', 0), ('39', 1), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    136, 40
+08-27 16:37 Main function DEBUG    queue: [41, 41, 41, 43, 44, 42, 42, 43, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['39', '128', '104', '42', '144', '142', '125', '156', '65', '123', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 6), ('192', 12), ('156', 7), ('104', 2), ('128', 1), ('147', 10), ('39', 0), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [4, 41, 37, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['54', '128', '106', '42', '144', '142', '39', '156', '65', '123', '147', '68', '192', '125', '104']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 14), ('128', 1), ('147', 10), ('39', 6), ('65', 8), ('42', 3), ('54', 0), ('106', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    54, 4
+08-27 16:37 Main function DEBUG    queue: [37, 41, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['106', '128', '104', '42', '144', '142', '39', '156', '65', '123', '147', '68', '192', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 2), ('128', 1), ('147', 10), ('39', 6), ('65', 8), ('42', 3), ('106', 0)]
+08-27 16:37 Main function DEBUG    queue: [10, 41, 37, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['170', '128', '106', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192', '125', '39']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 6), ('128', 1), ('147', 10), ('39', 14), ('65', 8), ('42', 3), ('106', 2), ('170', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    170, 10
+08-27 16:37 Main function DEBUG    queue: [37, 41, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['106', '128', '39', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 6), ('128', 1), ('147', 10), ('39', 2), ('65', 8), ('42', 3), ('106', 0)]
+08-27 16:37 Main function DEBUG    queue: [29, 41, 37, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['89', '128', '106', '42', '144', '142', '39', '156', '65', '123', '147', '68', '192', '125', '104']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 14), ('128', 1), ('147', 10), ('39', 6), ('65', 8), ('42', 3), ('106', 2), ('89', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    89, 29
+08-27 16:37 Main function DEBUG    queue: [37, 41, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['106', '128', '104', '42', '144', '142', '39', '156', '65', '123', '147', '68', '192', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 2), ('128', 1), ('147', 10), ('39', 6), ('65', 8), ('42', 3), ('106', 0)]
+08-27 16:37 Main function DEBUG    queue: [37, 41, 40, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42, 41]
+08-27 16:37 Main function DEBUG    names: ['106', '128', '67', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192', '125', '39']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 6), ('128', 1), ('147', 10), ('39', 14), ('65', 8), ('42', 3), ('106', 0), ('67', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    106, 37
+08-27 16:37 Main function DEBUG    queue: [40, 41, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['67', '128', '39', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 6), ('128', 1), ('147', 10), ('39', 2), ('65', 8), ('42', 3), ('67', 0)]
+08-27 16:37 Main function DEBUG    queue: [40, 41, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43, 42]
+08-27 16:37 Main function DEBUG    names: ['67', '128', '39', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192', '125']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 13), ('192', 12), ('156', 7), ('104', 6), ('128', 1), ('147', 10), ('39', 2), ('65', 8), ('42', 3), ('67', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    67, 40
+08-27 16:37 Main function DEBUG    queue: [41, 42, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['128', '125', '39', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 1), ('192', 12), ('156', 7), ('104', 6), ('128', 0), ('147', 10), ('39', 2), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [41, 42, 41, 43, 44, 42, 41, 43, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['128', '125', '39', '42', '144', '142', '104', '156', '65', '123', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 1), ('192', 12), ('156', 7), ('104', 6), ('128', 0), ('147', 10), ('39', 2), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    128, 41
+08-27 16:37 Main function DEBUG    queue: [41, 42, 41, 43, 44, 42, 43, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['39', '125', '104', '42', '144', '142', '192', '156', '65', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 1), ('192', 6), ('156', 7), ('104', 2), ('147', 10), ('39', 0), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [10, 42, 41, 43, 44, 41, 43, 43, 43, 44, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['110', '125', '39', '42', '144', '104', '192', '156', '65', '123', '147', '68', '142']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 12), ('125', 1), ('192', 6), ('156', 7), ('104', 5), ('147', 10), ('39', 2), ('65', 8), ('42', 3), ('110', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    110, 10
+08-27 16:37 Main function DEBUG    queue: [41, 42, 41, 43, 44, 42, 43, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['39', '125', '104', '42', '144', '142', '192', '156', '65', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 1), ('192', 6), ('156', 7), ('104', 2), ('147', 10), ('39', 0), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [41, 42, 41, 43, 44, 42, 43, 43, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['39', '125', '104', '42', '144', '142', '192', '156', '65', '123', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 4), ('123', 9), ('142', 5), ('125', 1), ('192', 6), ('156', 7), ('104', 2), ('147', 10), ('39', 0), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    39, 41
+08-27 16:37 Main function DEBUG    queue: [41, 42, 42, 43, 44, 44, 43, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '125', '142', '42', '144', '68', '192', '156', '65', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 4), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 7), ('104', 0), ('147', 10), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    queue: [41, 42, 42, 43, 44, 44, 43, 43, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['104', '125', '142', '42', '144', '68', '192', '156', '65', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 4), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 7), ('104', 0), ('147', 10), ('65', 8), ('42', 3)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    104, 41
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 44, 44, 43, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '42', '142', '156', '144', '68', '192', '147', '65', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 4), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 3), ('147', 7), ('65', 8), ('42', 1)]
+08-27 16:37 Main function DEBUG    queue: [35, 42, 42, 43, 43, 44, 43, 44, 43, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['108', '125', '142', '156', '42', '68', '192', '147', '65', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 10), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 3), ('147', 7), ('65', 8), ('42', 4), ('108', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    108, 35
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '156', '142', '65', '42', '68', '192', '147', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 1), ('147', 7), ('65', 3), ('42', 4)]
+08-27 16:37 Main function DEBUG    queue: [3, 42, 42, 43, 43, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['80', '125', '142', '65', '156', '68', '192', '147', '144', '123', '42']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 4), ('147', 7), ('65', 3), ('42', 10), ('80', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    80, 3
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '42', '142', '65', '156', '68', '192', '147', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 4), ('147', 7), ('65', 3), ('42', 1)]
+08-27 16:37 Main function DEBUG    queue: [29, 42, 41, 43, 43, 42, 43, 44, 44, 44, 43, 44]
+08-27 16:37 Main function DEBUG    names: ['2', '125', '53', '65', '42', '142', '192', '147', '144', '123', '156', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 11), ('144', 8), ('123', 9), ('142', 5), ('125', 1), ('192', 6), ('156', 10), ('147', 7), ('65', 3), ('42', 4), ('2', 0), ('53', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    2, 29
+08-27 16:37 Main function DEBUG    queue: [41, 42, 42, 43, 43, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['53', '125', '142', '65', '42', '68', '192', '147', '144', '123', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 10), ('147', 7), ('65', 3), ('42', 4), ('53', 0)]
+08-27 16:37 Main function DEBUG    queue: [41, 42, 42, 43, 43, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['53', '125', '142', '65', '42', '68', '192', '147', '144', '123', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 10), ('147', 7), ('65', 3), ('42', 4), ('53', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    53, 41
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '156', '142', '65', '42', '68', '192', '147', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 1), ('147', 7), ('65', 3), ('42', 4)]
+08-27 16:37 Main function DEBUG    queue: [20, 42, 42, 43, 43, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['57', '125', '142', '65', '156', '68', '192', '147', '144', '123', '42']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 1), ('192', 6), ('156', 4), ('147', 7), ('65', 3), ('42', 10), ('57', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    57, 20
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '42', '142', '65', '156', '68', '192', '147', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 4), ('147', 7), ('65', 3), ('42', 1)]
+08-27 16:37 Main function DEBUG    queue: [42, 43, 42, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['125', '42', '142', '65', '156', '68', '192', '147', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 9), ('142', 2), ('125', 0), ('192', 6), ('156', 4), ('147', 7), ('65', 3), ('42', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    125, 42
+08-27 16:37 Main function DEBUG    queue: [42, 43, 43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['142', '42', '192', '65', '156', '68', '123', '147', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 6), ('142', 0), ('192', 2), ('156', 4), ('147', 7), ('65', 3), ('42', 1)]
+08-27 16:37 Main function DEBUG    queue: [42, 43, 43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['142', '42', '192', '65', '156', '68', '123', '147', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 8), ('123', 6), ('142', 0), ('192', 2), ('156', 4), ('147', 7), ('65', 3), ('42', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    142, 42
+08-27 16:37 Main function DEBUG    queue: [43, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['42', '65', '192', '144', '156', '68', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 6), ('192', 2), ('156', 4), ('147', 7), ('65', 1), ('42', 0)]
+08-27 16:37 Main function DEBUG    queue: [43, 43, 43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['42', '65', '192', '144', '156', '68', '123', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 6), ('192', 2), ('156', 4), ('147', 7), ('65', 1), ('42', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    42, 43
+08-27 16:37 Main function DEBUG    queue: [43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['65', '156', '192', '144', '147', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 6), ('192', 2), ('156', 1), ('147', 4), ('65', 0)]
+08-27 16:37 Main function DEBUG    queue: [7, 43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['25', '65', '192', '156', '147', '68', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 6), ('192', 2), ('156', 3), ('147', 4), ('65', 1), ('25', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    25, 7
+08-27 16:37 Main function DEBUG    queue: [43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['65', '156', '192', '144', '147', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 6), ('192', 2), ('156', 1), ('147', 4), ('65', 0)]
+08-27 16:37 Main function DEBUG    queue: [43, 43, 43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['65', '156', '192', '144', '147', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 6), ('192', 2), ('156', 1), ('147', 4), ('65', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    65, 43
+08-27 16:37 Main function DEBUG    queue: [43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['156', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('156', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [16, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['190', '123', '156', '144', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 6), ('156', 2), ('147', 4), ('190', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    190, 16
+08-27 16:37 Main function DEBUG    queue: [43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['192', '123', '156', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 0), ('156', 2), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [21, 44, 43, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['77', '123', '192', '144', '147', '68', '156']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('156', 6), ('147', 4), ('77', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    77, 21
+08-27 16:37 Main function DEBUG    queue: [43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['156', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('156', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [43, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['156', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('156', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    156, 43
+08-27 16:37 Main function DEBUG    queue: [43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['192', '123', '68', '144', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('192', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [17, 44, 30, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['85', '123', '145', '144', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 6), ('147', 4), ('145', 2), ('85', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    85, 17
+08-27 16:37 Main function DEBUG    queue: [30, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['145', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('147', 4), ('145', 0)]
+08-27 16:37 Main function DEBUG    queue: [5, 44, 30, 44, 44, 44, 43]
+08-27 16:37 Main function DEBUG    names: ['197', '123', '145', '144', '147', '68', '192']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 6), ('147', 4), ('145', 2), ('197', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    197, 5
+08-27 16:37 Main function DEBUG    queue: [30, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['145', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('147', 4), ('145', 0)]
+08-27 16:37 Main function DEBUG    queue: [30, 44, 43, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['145', '123', '192', '144', '147', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 1), ('192', 2), ('147', 4), ('145', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    145, 30
+08-27 16:37 Main function DEBUG    queue: [43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['192', '123', '68', '144', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('192', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    queue: [43, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['192', '123', '68', '144', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('192', 0), ('147', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    192, 43
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['147', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('147', 0)]
+08-27 16:37 Main function DEBUG    queue: [12, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['94', '147', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('147', 1), ('94', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    94, 12
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '147', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 0), ('147', 1)]
+08-27 16:37 Main function DEBUG    queue: [20, 44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['18', '123', '68', '144', '147']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('147', 4), ('18', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    18, 20
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['147', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('147', 0)]
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['147', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('147', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    147, 44
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 0), ('123', 1)]
+08-27 16:37 Main function DEBUG    queue: [13, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['120', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 1), ('123', 3), ('120', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    120, 13
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 1), ('123', 0)]
+08-27 16:37 Main function DEBUG    queue: [22, 37, 24, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['5', '132', '72', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('132', 1), ('5', 0), ('72', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    5, 22
+08-27 16:37 Main function DEBUG    queue: [24, 37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['72', '132', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('132', 1), ('72', 0)]
+08-27 16:37 Main function DEBUG    queue: [24, 37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['72', '132', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('132', 1), ('72', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    72, 24
+08-27 16:37 Main function DEBUG    queue: [37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['132', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('132', 0)]
+08-27 16:37 Main function DEBUG    queue: [2, 37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['35', '132', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('132', 1), ('35', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    35, 2
+08-27 16:37 Main function DEBUG    queue: [37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['132', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('132', 0)]
+08-27 16:37 Main function DEBUG    queue: [9, 37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['27', '132', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('132', 1), ('27', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    27, 9
+08-27 16:37 Main function DEBUG    queue: [37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['132', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('132', 0)]
+08-27 16:37 Main function DEBUG    queue: [13, 37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['97', '132', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('132', 1), ('97', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    97, 13
+08-27 16:37 Main function DEBUG    queue: [37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['132', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('132', 0)]
+08-27 16:37 Main function DEBUG    queue: [37, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['132', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('132', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    132, 37
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 0), ('123', 1)]
+08-27 16:37 Main function DEBUG    queue: [34, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['16', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 1), ('123', 3), ('16', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    16, 34
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 1), ('123', 0)]
+08-27 16:37 Main function DEBUG    queue: [2, 27, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['33', '44', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('44', 1), ('33', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    33, 2
+08-27 16:37 Main function DEBUG    queue: [27, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['44', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 1), ('44', 0)]
+08-27 16:37 Main function DEBUG    queue: [16, 27, 31, 44, 44, 44, 33]
+08-27 16:37 Main function DEBUG    names: ['183', '44', '24', '144', '123', '68', '7']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('44', 1), ('183', 0), ('7', 6), ('24', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    183, 16
+08-27 16:37 Main function DEBUG    queue: [27, 33, 31, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['44', '7', '24', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('44', 0), ('7', 1), ('24', 2)]
+08-27 16:37 Main function DEBUG    queue: [27, 33, 31, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['44', '7', '24', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('44', 0), ('7', 1), ('24', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    44, 27
+08-27 16:37 Main function DEBUG    queue: [31, 33, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '7', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('7', 1), ('24', 0)]
+08-27 16:37 Main function DEBUG    queue: [20, 33, 31, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['14', '7', '24', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('7', 1), ('24', 2), ('14', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    14, 20
+08-27 16:37 Main function DEBUG    queue: [31, 33, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '7', '68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 2), ('144', 3), ('123', 4), ('7', 1), ('24', 0)]
+08-27 16:37 Main function DEBUG    queue: [16, 33, 31, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['122', '7', '24', '144', '123', '68', '71']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('7', 1), ('24', 2), ('122', 0), ('71', 6)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    122, 16
+08-27 16:37 Main function DEBUG    queue: [31, 33, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '7', '71', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 3), ('123', 4), ('7', 1), ('24', 0), ('71', 2)]
+08-27 16:37 Main function DEBUG    queue: [26, 31, 33, 33, 44, 44, 38, 44, 33]
+08-27 16:37 Main function DEBUG    names: ['73', '24', '96', '7', '123', '68', '71', '144', '61']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 4), ('7', 3), ('24', 1), ('71', 6), ('96', 2), ('73', 0), ('61', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    73, 26
+08-27 16:37 Main function DEBUG    queue: [31, 33, 33, 33, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '61', '96', '7', '123', '68', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 4), ('7', 3), ('24', 0), ('71', 6), ('96', 2), ('61', 1)]
+08-27 16:37 Main function DEBUG    queue: [5, 5, 33, 33, 31, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['187', '173', '96', '61', '24', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 4), ('71', 6), ('96', 2), ('61', 3), ('187', 0), ('173', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    187, 5
+08-27 16:37 Main function DEBUG    queue: [5, 31, 33, 33, 44, 44, 38, 44, 33]
+08-27 16:37 Main function DEBUG    names: ['173', '24', '96', '61', '123', '68', '71', '144', '7']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 4), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('173', 0)]
+08-27 16:37 Main function DEBUG    queue: [5, 22, 33, 33, 31, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['173', '139', '96', '61', '24', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 4), ('71', 6), ('96', 2), ('61', 3), ('173', 0), ('139', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    173, 5
+08-27 16:37 Main function DEBUG    queue: [22, 31, 33, 33, 44, 44, 38, 44, 33]
+08-27 16:37 Main function DEBUG    names: ['139', '24', '96', '61', '123', '68', '71', '144', '7']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 4), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('139', 0)]
+08-27 16:37 Main function DEBUG    queue: [8, 22, 33, 33, 31, 44, 38, 44, 33, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['152', '139', '96', '61', '24', '68', '71', '144', '7', '123', '36']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 4), ('71', 6), ('96', 2), ('61', 3), ('139', 1), ('36', 10), ('152', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    152, 8
+08-27 16:37 Main function DEBUG    queue: [22, 31, 33, 33, 42, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['139', '24', '96', '61', '36', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('139', 0), ('36', 4)]
+08-27 16:37 Main function DEBUG    queue: [2, 22, 33, 33, 31, 44, 38, 44, 33, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['113', '139', '96', '61', '24', '68', '71', '144', '7', '123', '36']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 4), ('71', 6), ('96', 2), ('61', 3), ('139', 1), ('36', 10), ('113', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    113, 2
+08-27 16:37 Main function DEBUG    queue: [22, 31, 33, 33, 42, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['139', '24', '96', '61', '36', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('139', 0), ('36', 4)]
+08-27 16:37 Main function DEBUG    queue: [16, 22, 33, 33, 31, 44, 38, 44, 33, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['163', '139', '96', '61', '24', '68', '71', '144', '7', '123', '36']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 4), ('71', 6), ('96', 2), ('61', 3), ('139', 1), ('36', 10), ('163', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    163, 16
+08-27 16:37 Main function DEBUG    queue: [22, 31, 33, 33, 42, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['139', '24', '96', '61', '36', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('139', 0), ('36', 4)]
+08-27 16:37 Main function DEBUG    queue: [22, 31, 33, 33, 42, 44, 38, 44, 33, 44]
+08-27 16:37 Main function DEBUG    names: ['139', '24', '96', '61', '36', '68', '71', '144', '7', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 9), ('7', 8), ('24', 1), ('71', 6), ('96', 2), ('61', 3), ('139', 0), ('36', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    139, 22
+08-27 16:37 Main function DEBUG    queue: [31, 33, 33, 33, 42, 44, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '61', '96', '7', '36', '68', '71', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('68', 5), ('144', 7), ('123', 8), ('7', 3), ('24', 0), ('71', 6), ('96', 2), ('61', 1), ('36', 4)]
+08-27 16:37 Main function DEBUG    queue: [31, 33, 33, 33, 42, 44, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['24', '61', '96', '7', '36', '123', '71', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('24', 0), ('71', 6), ('96', 2), ('61', 1), ('36', 4), ('68', 8)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    24, 31
+08-27 16:37 Main function DEBUG    queue: [33, 33, 33, 44, 42, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['61', '7', '96', '68', '36', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 1), ('71', 6), ('96', 2), ('61', 0), ('36', 4), ('68', 3)]
+08-27 16:37 Main function DEBUG    queue: [7, 21, 33, 33, 27, 44, 38, 44, 44, 42, 33]
+08-27 16:37 Main function DEBUG    names: ['172', '165', '96', '7', '95', '123', '71', '144', '68', '36', '61']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('71', 6), ('96', 2), ('61', 10), ('36', 9), ('68', 8), ('95', 4), ('165', 1), ('172', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    172, 7
+08-27 16:37 Main function DEBUG    queue: [21, 27, 33, 33, 33, 44, 38, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['165', '95', '96', '7', '61', '123', '71', '144', '68', '36']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('71', 6), ('96', 2), ('61', 4), ('36', 9), ('68', 8), ('95', 1), ('165', 0)]
+08-27 16:37 Main function DEBUG    queue: [21, 27, 33, 33, 31, 44, 38, 44, 44, 42, 33]
+08-27 16:37 Main function DEBUG    names: ['165', '95', '96', '7', '116', '123', '71', '144', '68', '36', '61']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('71', 6), ('96', 2), ('61', 10), ('36', 9), ('68', 8), ('95', 1), ('165', 0), ('116', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    165, 21
+08-27 16:37 Main function DEBUG    queue: [27, 31, 33, 33, 33, 44, 38, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['95', '116', '96', '7', '61', '123', '71', '144', '68', '36']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('71', 6), ('96', 2), ('61', 4), ('36', 9), ('68', 8), ('95', 0), ('116', 1)]
+08-27 16:37 Main function DEBUG    queue: [27, 31, 33, 33, 33, 44, 38, 44, 44, 42]
+08-27 16:37 Main function DEBUG    names: ['95', '116', '96', '7', '61', '123', '71', '144', '68', '36']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 3), ('71', 6), ('96', 2), ('61', 4), ('36', 9), ('68', 8), ('95', 0), ('116', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    95, 27
+08-27 16:37 Main function DEBUG    queue: [31, 33, 33, 42, 33, 44, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['116', '7', '96', '36', '61', '123', '71', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 1), ('71', 6), ('96', 2), ('61', 4), ('36', 3), ('68', 8), ('116', 0)]
+08-27 16:37 Main function DEBUG    queue: [31, 33, 33, 42, 33, 44, 38, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['116', '7', '96', '36', '61', '123', '71', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 1), ('71', 6), ('96', 2), ('61', 4), ('36', 3), ('68', 8), ('116', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    116, 31
+08-27 16:37 Main function DEBUG    queue: [33, 33, 33, 42, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['7', '61', '96', '36', '68', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 0), ('71', 6), ('96', 2), ('61', 1), ('36', 3), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [33, 33, 33, 42, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['7', '61', '96', '36', '68', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('7', 0), ('71', 6), ('96', 2), ('61', 1), ('36', 3), ('68', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    7, 33
+08-27 16:37 Main function DEBUG    queue: [33, 42, 33, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['61', '36', '96', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 2), ('61', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [7, 33, 33, 42, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['137', '61', '96', '36', '68', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('71', 6), ('96', 2), ('61', 1), ('36', 3), ('68', 4), ('137', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    137, 7
+08-27 16:37 Main function DEBUG    queue: [33, 42, 33, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['61', '36', '96', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 2), ('61', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [17, 33, 33, 42, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['112', '61', '96', '36', '68', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('71', 6), ('96', 2), ('61', 1), ('36', 3), ('68', 4), ('112', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    112, 17
+08-27 16:37 Main function DEBUG    queue: [33, 42, 33, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['61', '36', '96', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 2), ('61', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [33, 42, 33, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['61', '36', '96', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 2), ('61', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    61, 33
+08-27 16:37 Main function DEBUG    queue: [33, 42, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['96', '36', '71', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 2), ('96', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [2, 33, 36, 42, 44, 44, 38, 44]
+08-27 16:37 Main function DEBUG    names: ['17', '96', '138', '36', '68', '123', '71', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 7), ('123', 5), ('71', 6), ('96', 1), ('36', 3), ('68', 4), ('138', 2), ('17', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    17, 2
+08-27 16:37 Main function DEBUG    queue: [33, 42, 36, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['96', '36', '138', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 0), ('36', 1), ('68', 4), ('138', 2)]
+08-27 16:37 Main function DEBUG    queue: [33, 42, 36, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['96', '36', '138', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('96', 0), ('36', 1), ('68', 4), ('138', 2)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    96, 33
+08-27 16:37 Main function DEBUG    queue: [36, 42, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['138', '36', '71', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 2), ('36', 1), ('68', 4), ('138', 0)]
+08-27 16:37 Main function DEBUG    queue: [17, 42, 36, 44, 44, 44, 38]
+08-27 16:37 Main function DEBUG    names: ['99', '36', '138', '144', '68', '123', '71']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 6), ('36', 1), ('68', 4), ('138', 2), ('99', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    99, 17
+08-27 16:37 Main function DEBUG    queue: [36, 42, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['138', '36', '71', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 2), ('36', 1), ('68', 4), ('138', 0)]
+08-27 16:37 Main function DEBUG    queue: [36, 42, 38, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['138', '36', '71', '144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 5), ('71', 2), ('36', 1), ('68', 4), ('138', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    138, 36
+08-27 16:37 Main function DEBUG    queue: [38, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['71', '36', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('71', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    queue: [38, 42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['71', '36', '123', '144', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('71', 0), ('36', 1), ('68', 4)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    71, 38
+08-27 16:37 Main function DEBUG    queue: [42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['36', '68', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('36', 0), ('68', 1)]
+08-27 16:37 Main function DEBUG    queue: [42, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['36', '68', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('36', 0), ('68', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    36, 42
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 0), ('123', 2), ('68', 1)]
+08-27 16:37 Main function DEBUG    queue: [20, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['105', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 3), ('105', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    105, 20
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 0)]
+08-27 16:37 Main function DEBUG    queue: [21, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['157', '68', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('68', 1), ('157', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    157, 21
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['144', '68', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 0), ('123', 2), ('68', 1)]
+08-27 16:37 Main function DEBUG    queue: [7, 39, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['29', '30', '123', '68', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 4), ('123', 2), ('68', 3), ('30', 1), ('29', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    29, 7
+08-27 16:37 Main function DEBUG    queue: [39, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['30', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 3), ('30', 0)]
+08-27 16:37 Main function DEBUG    queue: [39, 44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['30', '144', '123', '68']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 3), ('30', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    30, 39
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 0)]
+08-27 16:37 Main function DEBUG    queue: [44, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['68', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('68', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    68, 44
+08-27 16:37 Main function DEBUG    queue: [44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 0)]
+08-27 16:37 Main function DEBUG    queue: [2, 7, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['154', '76', '123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 3), ('123', 2), ('154', 0), ('76', 1)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    154, 2
+08-27 16:37 Main function DEBUG    queue: [7, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['76', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('76', 0)]
+08-27 16:37 Main function DEBUG    queue: [7, 44, 44]
+08-27 16:37 Main function DEBUG    names: ['76', '144', '123']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 2), ('76', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    76, 7
+08-27 16:37 Main function DEBUG    queue: [44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 0)]
+08-27 16:37 Main function DEBUG    queue: [44, 44]
+08-27 16:37 Main function DEBUG    names: ['123', '144']
+08-27 16:37 Main function DEBUG    dict: [('144', 1), ('123', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    123, 44
+08-27 16:37 Main function DEBUG    queue: [44]
+08-27 16:37 Main function DEBUG    names: ['144']
+08-27 16:37 Main function DEBUG    dict: [('144', 0)]
+08-27 16:37 Main function DEBUG    queue: [44]
+08-27 16:37 Main function DEBUG    names: ['144']
+08-27 16:37 Main function DEBUG    dict: [('144', 0)]
+08-27 16:37 Main function DEBUG    root extracted successfully
+08-27 16:37 Main function DEBUG    144, 44
+08-27 16:37 Main function DEBUG    queue: []
+08-27 16:37 Main function DEBUG    names: []
+08-27 16:37 Main function DEBUG    dict: []
