@@ -49,17 +49,26 @@ def ToCommandLine():
                         help='Input txt file. If not specified, stdin.')
     parser.add_argument('--outfile', metavar='Output', nargs=1, type=str, default=sys.stdout,
                         help='Output txt file. If not specified, stdout.')
+    parser.add_argument('src', metavar='Source vertex', nargs=1, type=int, default=sys.stdout,
+                        help='Source vertex for algorithm\'s start')
     args = parser.parse_args()
     logger_2.info('Arguments parsed')
 
     #     Вызов основной функции от зафиксированных аргументов
-    main(args.infile, args.outfile)
+    main(args.infile, args.outfile, args.src)
 
 
 def str_parse(line):
-    return [tuple(map(int, item.split(","))) for item in list(line.split('\t')[1:])]
 
-def main(infile, outfile):
+    split = line.split('\t')
+    source = int(split[0])
+    other = split[1:]
+
+    return([list(map(int, other[i].split(','))) + [source] for i in range(len(other))])
+    # print(line)
+
+
+def main(infile, outfile, source):
     logger_3 = logging.getLogger('Main function')
     logger_3.info('Main part started')
 
@@ -67,64 +76,75 @@ def main(infile, outfile):
 
     lines = [0] + [str_parse(line) for line in file.read().split('\n')[:-1]]
 
-    logger_3.debug('lines parsed')
-    src = 1
-    dist = [2**30] * 201
-    visited = [False] * 201
-    queue = heapdict(order=False)
+    # print(lines[100:105])
 
+    # logger_3.debug('Lines: {}'.format(lines))
+
+    src = source[0]
+    seen = [False] * len(lines)
+    cum_dist = [0] * len(lines)
+    queue = heapdict(order=False)
     logger_3.debug('queue created')
-    cum_dist = 0
-    dist[src] = 0
-    visited[src] = True
+
+    logger_3.debug('Names: {}'.format(queue.names))
+    logger_3.debug('Heap: {}'.format(queue.heap))
+    logger_3.debug('Into: {}'.format(list(queue.into.items())))
+    logger_3.debug('Distances: {}'.format(cum_dist))
 
     for item in lines[src]:
-        dist[item[0]] = item[1]
-        queue[item[0]] = item[1]
+        # print(item)
+        queue.add_item(item)
 
-    logger_3.debug('first node added to queue')
+    seen[src] = True
+    assert len(queue.heap) == len(queue.names) == len(queue.sources) == len(queue.into)
+
+    logger_3.debug('First node edges added')
+
+    logger_3.debug('Names: {}'.format(queue.names))
+    logger_3.debug('Heap: {}'.format(queue.heap))
+    logger_3.debug('Into: {}'.format(list(queue.into.items())))
+    logger_3.debug('Distances: {}'.format(cum_dist))
+
+
     while len(queue.heap) > 0:
-        # logger_3.debug(dict(queue))
+        assert len(queue.heap) == len(queue.names) == len(queue.sources) == len(queue.into)
 
-        logger_3.debug('queue: {}'.format(queue.heap))
-        logger_3.debug('names: {}'.format(queue.names))
-        logger_3.debug('dict: {}'.format(list(queue.into.items())))
+        logger_3.debug('Names:\t{}'.format(queue.names))
+        logger_3.debug('Heap:\t{}'.format(queue.heap))
+        logger_3.debug('Into: \t{}'.format(list(queue.into.items())))
+        logger_3.debug('Distances: \t{}'.format(cum_dist))
 
-        u, c = queue.extract_root()
-        logger_3.debug('root extracted successfully')
-        logger_3.debug("{}, {}".format(u, c))
+        name, value, source = queue.extract_root()
+        seen[name] = True
+        cum_dist[name] = cum_dist[source] + value
 
-        u = int(u)
-        cum_dist += c
-        visited[u] = True
-        dist[u] = cum_dist
-
-        logger_3.debug('queue: {}'.format(queue.heap))
-        logger_3.debug('names: {}'.format(queue.names))
-        logger_3.debug('dict: {}'.format(list(queue.into.items())))
-
-        assert len(queue.names) == len(queue.heap)
-        assert len(queue.names) == len(queue.into)
-
-        if len(lines[u]) == 1:
-            dist[lines[u][0][0]] = cum_dist + lines[u][0][0]
-            visited[lines[u][0][0]] = True
-            cum_dist -= c
-        else:
-            for item in lines[u]:
-                if visited[item[0]] == False:
-                    if str(item[0]) in queue.into:
-                        print("OK")
-                        queue[item[0]] = min(queue[item[0]], cum_dist + item[1])
-                        dist[item[0]] = min(queue[item[0]], cum_dist + item[1])
-                    else:
-                        queue[item[0]] = item[1]
-                        dist[item[0]] = item[1]
-
-    for i in [7,37,59,82,99,115,133,165,188,197]:
-        print(dist[i])
+        # print(name, lines[name])
+        for item in lines[name]:
+            # print(item)
+            k, v, s = item
 
 
+            if seen[k] == False:
+                if str(k) in queue.into:
+                    if cum_dist[s] - cum_dist[queue[k][2]] + v <= queue[k][1]:
+                        logger_3.debug('{}'.format([k,v,s]))
+                        logger_3.debug('Names:\t{}'.format(queue.names))
+                        logger_3.debug('Heap:\t{}'.format(queue.heap))
+                        logger_3.debug('Into: \t{}'.format(list(queue.into.items())))
+                        logger_3.debug('Distances: \t{}'.format(cum_dist))
 
+                        queue.add_item([k, v, s])
+                else:
+                    queue.add_item([k, v, s])
+
+
+        logger_3.debug('Names:\t{}'.format(queue.names))
+        logger_3.debug('Heap:\t{}'.format(queue.heap))
+        logger_3.debug('Into: \t{}'.format(list(queue.into.items())))
+        logger_3.debug('Distances: \t{}'.format(cum_dist))
+
+    for i in (7,37,59,82,99,115,133,165,188,197):
+        print(cum_dist[i])
+        # print(len(queue.heap))
 if __name__ == '__main__':
     ToCommandLine()
